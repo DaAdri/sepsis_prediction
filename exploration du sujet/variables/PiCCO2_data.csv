@@ -1,0 +1,85 @@
+ID,Label,Unit,Group
+1,Heart Rate,1/min,VitalSigns 
+14,SpO2,%,VitalSigns 
+414,Cardiac Output,L/min,VitalSigns 
+519,Central Venous Pressure (CVP),mmHg,VitalSigns 
+585,Patient Category,unitless,PatientInfo 
+649,Cardiac Index,L/min/m2,VitalSigns 
+650,Stroke Volume,mL,VitalSigns 
+654,Systemic Vascular Resistance,dyn·s/cm5,VitalSigns 
+756,Patient Height,cm,PatientInfo 
+757,Patient Weight,kg,PatientInfo 
+768,Generic Error Code,unitless,Alarms 
+1246,Hematocrit,%,VitalSigns 
+1434,Patient Body Surface Area,m2,PatientInfo 
+1435,Systemic Vascular Resistance Index,dyn·s·m2/cm5,VitalSigns 
+1468,O2 Consumption (VO2),mL/min,VitalSigns 
+1472,O2 Consumption Index,mL/min/m2,VitalSigns 
+1710,Cardiac Power Index (CCO),Not Available,VitalSigns 
+1711,Cardiac Power Output (CCO),W,VitalSigns 
+1720,ICG Measurement Counter,unitless,OtherMeasuredData 
+1721,Plasma Disappearance Rate,Not Available,VitalSigns 
+1722,ICG Retention Rate,%,VitalSigns 
+1730,Cardiac Index ((Thermodilution),L/min/m2,VitalSigns 
+1731,Cardiac Output (Thermodilution),L/min,VitalSigns 
+1732,Global Ejection Fraction (Thermodilution),%,VitalSigns 
+1733,Global End-Diastolic Volum (Thermodilution),mL,VitalSigns 
+1734,Global End-Diastolic Volum Index (Thermodilution),mL/m2,VitalSigns 
+1735,Pulmonary Vascular Permeability Index (Thermodilution),unitless,VitalSigns 
+1821,Generic ICG Error,unitless,Alarms 
+1929,Patient ID,unitless,PatientInfo 
+1930,Patient Name,unitless,PatientInfo 
+1943,Predicted Patient Body Surface Area,m2,PatientInfo 
+1944,Predicted Patient Weight,kg,PatientInfo 
+2255,Device Date/Time,unitless,DeviceInfo 
+2259,Arterial BP Systolic,mmHg,VitalSigns 
+2260,Arterial BP Diastolic,mmHg,VitalSigns 
+2261,Arterial BP Mean,mmHg,VitalSigns 
+2341,Patient Blood Temperature,°C,VitalSigns 
+2342,Injectate Temperature,°C,OtherMeasuredData 
+2452,O2 Delivery (DO2),mL/min,VitalSigns 
+2462,SvO2 Alarm,unitless,Alarms 
+2819,SvO2 Calibration Status,unitless,DeviceInfo 
+2879,Device Software Revision,unitless,DeviceInfo 
+2915,Ejection Fraction,%,VitalSigns 
+3184,Alternate Patient ID,unitless,PatientInfo 
+3789,Arterial O2 Saturation (SaO2),%,VitalSigns 
+3877,Device Protocol Revision,unitless,DeviceInfo 
+4532,Stroke Volume Variation,%,VitalSigns 
+4575,O2 Delivery Index (DO2I),mL/min/m2,VitalSigns 
+4865,Cardiac Function Index (Thermodilution),1/min,VitalSigns 
+4866,Intrathoracic Blood Volume (Thermodilution),mL,VitalSigns 
+4867,Intrathoracic Blood Volume Index (Thermodilution),mL/m2,VitalSigns 
+4868,Extravascular Lung Water (Thermodilution),mL,VitalSigns 
+4869,Extravascular Lung Water Index (Thermodilution),mL/kg,VitalSigns 
+5072,Intrathoracic Blood Volume (ITBV),mL,VitalSigns 
+5073,Intrathoracic Blood Volume Index (ITBI),mL/m2,VitalSigns 
+5074,Extravascular Lung Water,mL,VitalSigns 
+5075,Extravascular Lung Water Index,mL/kg,VitalSigns 
+5076,Global End Diastolic Volume,mL,VitalSigns 
+5077,Global End Diastolic Volume Index,mL/m2,VitalSigns 
+5078,Cardiac Function Index,1/min,VitalSigns 
+5642,SvO2 Calibration Data,unitless,DeviceInfo 
+5684,Continuous Cardiac Output (CCO) Alarm,unitless,Alarms 
+6403,Pulse Contour Cardiac Output,L/min,VitalSigns 
+6404,Thermodilution Measurement Status,unitless,OtherMeasuredData 
+6407,Index Of Left Ventricular Contractility (dPmx),mmHg/s,VitalSigns 
+6410,Mean Transit Time (MTt),s,VitalSigns 
+6411,Down Slope Time,s,VitalSigns 
+6422,Temperature Difference (Thermodilution),°C,VitalSigns 
+6424,Injectate Temperature (Thermodilution),°C,OtherMeasuredData 
+6428,PICCO Catheter,unitless,DeviceInfo 
+6434,Pulse Pressure Variation,%,VitalSigns 
+6493,Pulmonary Vascular Permeability Index,unitless,VitalSigns 
+6533,Patient Gender,unitless,PatientInfo 
+6689,Pulse Contour Cardiac Index,L/min/m2,VitalSigns 
+6690,Thermodilution Measurement Counter,unitless,OtherMeasuredData 
+6692,Right to Left Heart Shunt Fraction,%,VitalSigns 
+6694,Arterial Blood Pressure Wave,mmHg,Waveforms 
+6695,Injectate Volume Setting,mL,Settings 
+6696,Stroke Volume Min,mL,VitalSigns 
+6697,Stroke Volume Max,mL,VitalSigns 
+6698,Stroke Volume Index,mL/m2,VitalSigns 
+6699,Stroke Volume Mean,mL,VitalSigns 
+7823,Central Venous O2 Saturation (ScvO2),%,VitalSigns 
+7941,SpO2 Alarm,unitless,Alarms 

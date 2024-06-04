@@ -1,0 +1,26 @@
+ID,Label,Unit,Group
+1450,Infusion Pump Type,unitless,DeviceInfo 
+1451,Pump Infusion Status,unitless,DeviceInfo 
+1913,Device Serial Number,unitless,DeviceInfo 
+1927,Instrument Code,unitless,DeviceInfo 
+2879,Device Software Revision,unitless,DeviceInfo 
+3615,Battery Charge,unitless,DeviceInfo 
+3636,Device Alarm Status,unitless,Alarms 
+3849,Alarm History,unitless,Alarms 
+4201,Product Descritpion,unitless,DeviceInfo 
+4350,Current Delivery Rate,mL/h,Settings 
+5490,Cumulated Infused Volume,mL,VitalSigns 
+5508,Current Volume Infused,mL,OtherMeasuredData 
+9221,Error Response From Device,unitless,DeviceInfo 
+9267,Device Pre-alarm Status,unitless,Alarms 
+50201,Device Type,unitless,DeviceInfo 
+53001,Infusion Pump Type,unitless,DeviceInfo 
+53012,Infusion Pump Serial Number,unitless,DeviceInfo 
+53021,Infusion Pump Rack Index,unitless,DeviceInfo 
+53022,Infusion Pump Slot Index,unitless,DeviceInfo 
+53101,Generic Infusion Pump Mode,unitless,OtherMeasuredData 
+53111,Actual Infusion Volumetric Rate,mL/h,VitalSigns 
+53121,Total Volume Infused,mL,VitalSigns 
+53211,Infusion Drug Name,unitless,PatientInfo 
+53221,Infusion Volumetric Rate Setting,mL/h,Settings 
+53801,Infusion Event,unitless,Messages 

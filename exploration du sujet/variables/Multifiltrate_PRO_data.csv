@@ -1,0 +1,61 @@
+ID,Label,Unit,Group
+754,Device Name,unitless,DeviceInfo 
+965,Cumulated Therapy Time,min,OtherMeasuredData 
+1060,Anticoagulant Cumulated Continuous Infused Volume,0.1 mL,VitalSigns 
+1090,Anticoagulant Cumulated Bolus Infused Volume,0.1 mL,VitalSigns 
+1728,Ultrafiltration/Blood Flow Ratio,%,VitalSigns 
+1842,Arterial Pressure Upper Alarm Limit,mmHg,Settings 
+1843,Arterial Pressure Lower Alarm Limit,mmHg,Settings 
+1913,Device Serial Number,unitless,DeviceInfo 
+1929,Patient ID,unitless,PatientInfo 
+2022,Device System Code,unitless,DeviceInfo 
+2537,Citrate Calcium Activation Status,unitless,DeviceInfo 
+2539,Therapy Pause Start Time,unitless,OtherMeasuredData 
+2855,Device Status,unitless,DeviceInfo 
+2879,Device Software Revision,unitless,DeviceInfo 
+2961,Therapy Pause End Time,unitless,OtherMeasuredData 
+2969,Disposable Lifetime,min,DeviceInfo 
+3003,Blood Flow Rate Setting,mL/min,Settings 
+3004,Replacement Flow Rate Setting,mL/h,Settings 
+3005,Dialysate Flow Rate Setting,mL/h,Settings 
+3006,Fluid Removal Volume Setting,mL,Settings 
+3016,Transmembrane Pressure Upper Alarm Limit,mmHg,Settings 
+3026,Filter Pod Pressure,mmHg,OtherMeasuredData 
+3029,Transmembrane Pressure,mmHg,VitalSigns 
+3050,Therapy Type,unitless,DeviceInfo 
+3248,Generic Venous Line Pressure,mmHg,VitalSigns 
+3626,Therapy Ending Time,unitless,OtherMeasuredData 
+3628,Therapy Starting Time,unitless,OtherMeasuredData 
+3829,Device Total Operation Time,unitless,DeviceInfo 
+4226,Replacement Cumulated Volume,mL,VitalSigns 
+4229,Fluid Removal Cumulated Volume,mL,VitalSigns 
+4573,Dialysis Filter Lifetime,min,DeviceInfo 
+5860,Blood Sensed Status,unitless,DeviceInfo 
+5868,Fluid Removal Rate Setting,mL/h,Settings 
+5869,Dialysate Temperature Setting,0.1 °C,Settings 
+5870,Plasma Volume Setting,mL,Settings 
+5871,Citrate Dose Setting,0.01 mmol/L,Settings 
+5872,Calcium Dose Setting,0.01 mmol/L,Settings 
+5875,Citrate Flow Rate,mL/h,VitalSigns 
+5876,Calcium Flow Rate,mL/h,VitalSigns 
+5878,Citrate Cumulated Volume,0.1 mL,VitalSigns 
+5880,Calcium Cumulated Volume,0.1 mL,VitalSigns 
+5882,Filtration Fluid Cumulated Balance,mL,VitalSigns 
+5884,Replacement Cumulated Bolus Volume,mL,VitalSigns 
+6063,Central Venous Pressure Lower Alarm Limit,mmHg,Settings 
+6064,Central Venous Pressure Upper Alarm Limit,mmHg,Settings 
+6164,General Alarm Code,unitless,Alarms 
+6768,Device Quick Test Status,unitless,DeviceInfo 
+7438,Generic Arterial Line Pressure,mmHg,VitalSigns 
+8809,Anticoagulant Infusion Rate Setting,0.1 mL/h,Settings 
+8817,Patient Weight Cumulated Value,g,VitalSigns 
+8840,Patient Sensor Value 1,g,OtherMeasuredData 
+8841,Patient Sensor Value 2,g,OtherMeasuredData 
+8842,Patient Sensor Value 3,g,OtherMeasuredData 
+8843,Patient Sensor Value 4,g,OtherMeasuredData 
+8853,Patient Fluid Balance,mL,VitalSigns 
+8856,Therapy Operation Status,unitless,DeviceInfo 
+8967,Case ID,unitless,PatientInfo 
+9643,Blood Flow Rate,mL/min,VitalSigns 
+9644,Prefilter Pod Pressure,mmHg,OtherMeasuredData 
+9648,Transmembrane Pressure Lower Alarm Limit,mmHg,Settings 

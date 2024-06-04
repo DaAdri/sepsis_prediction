@@ -1,0 +1,1424 @@
+ID,Label,Unit,Group
+2,NIBP Systolic,-,VitalSigns 
+3,NIBP Diastolic,-,VitalSigns 
+4,NIBP Mean,-,VitalSigns 
+7,Patient Delta Temperature,-,VitalSigns 
+14,SpO2,-,VitalSigns 
+16,NIBP Pulse Rate,-,VitalSigns 
+19,ECG Heart Rate,-,VitalSigns 
+22,Respiration Rate,-,VitalSigns 
+26,Device Inactivation Status,unitless,DeviceInfo 
+28,Active Alarms,unitless,Alarms 
+29,Latched Alarms,unitless,Alarms 
+33,Inactive Alarms,unitless,Alarms 
+34,General ST Level 1,-,VitalSigns 
+35,General ST Level 2,-,VitalSigns 
+36,General ST Level 3,-,VitalSigns 
+45,Temperature 3,-,VitalSigns 
+46,Temperature 4,-,VitalSigns 
+48,O2 Saturation (SO2),-,VitalSigns 
+113,Pleth Waveform,-,Waveforms 
+127,ECG Measurement Status,-,OtherMeasuredData 
+169,Patient Age,-,PatientInfo 
+170,Patient Sex,unitless,PatientInfo 
+405,Generic O2 Saturation (1),-,VitalSigns 
+406,Generic O2 Saturation (2),-,VitalSigns 
+414,Cardiac Output,-,VitalSigns 
+465,Fetal Heart Rate (FHR),-,VitalSigns 
+467,Fetal Beat-to-Beat Rate (FHR),-,VitalSigns 
+469,TOCO,-,VitalSigns 
+497,ECG Lead Name,-,OtherMeasuredData 
+501,Arterial Pressure (ART) Systolic,-,VitalSigns 
+502,Arterial Pressure (ART) Diastolic,-,VitalSigns 
+503,Arterial Pressure (ART) Mean,-,VitalSigns 
+512,Left Atrial Mean Pressure (LAP),-,VitalSigns 
+519,Central Venous Pressure (CVP),-,VitalSigns 
+538,Device Language,unitless,DeviceInfo 
+591,ECG Lead II,-,VitalSigns 
+592,Airway N2O Concentration,-,VitalSigns 
+593,Inspired Desflurane,-,VitalSigns 
+595,Inspired Sevoflurane,-,VitalSigns 
+597,Fresh Gas Agent Value,-,VitalSigns 
+598,Fresh Gas Halothane,-,VitalSigns 
+599,Fresh Gas Enflurane,-,VitalSigns 
+600,Fresh Gas Isoflurane,-,VitalSigns 
+601,Inspired Halothane,-,VitalSigns 
+603,Inspired Enflurane,-,VitalSigns 
+605,Inspired Isoflurane,-,VitalSigns 
+608,End Tidal CO2,-,VitalSigns 
+616,Airway Pressure,-,VitalSigns 
+618,Airway N2O Wave,-,Waveforms 
+620,Halothane Concentration Wave,-,Waveforms 
+621,Enflurane Concentration Wave,-,Waveforms 
+622,Isoflurane Concentration Wave,-,Waveforms 
+623,Desflurane Concentration Wave,-,Waveforms 
+624,Sevoflurane Concentration Wave,-,Waveforms 
+625,Apnea Duration,-,VitalSigns 
+626,End Tidal CO2,-,VitalSigns 
+630,Cardiac Beat-to-Beat Rate,-,VitalSigns 
+633,Airway Delta O2 Concentration,-,VitalSigns 
+649,Cardiac Output Index,-,VitalSigns 
+650,Stroke Volume,-,VitalSigns 
+651,Stroke Volume Index,-,VitalSigns 
+654,Systemic Vascular Resistance,-,VitalSigns 
+669,Normalized Ionized Calcium Concentration (Ca),-,VitalSigns 
+678,Potassium Ion Concentration (K+),-,VitalSigns 
+696,QT Interval (QT),-,VitalSigns 
+764,Device Specification ID,unitless,DeviceInfo 
+765,Device Specification Type,unitless,DeviceInfo 
+794,Pleth Wave (2),-,Waveforms 
+854,Total Number of Used Disposable,-,DeviceInfo 
+946,Cumulated Syringe Infused Volume,-,OtherMeasuredData 
+966,Current Therapy Time,-,OtherMeasuredData 
+1043,Manually Entered Hematocrit,-,Settings 
+1055,Infusion Drug Name,-,PatientInfo 
+1072,Infusion Time Remaining,-,VitalSigns 
+1095,Infusion Dose Rate Setting,-,Settings 
+1096,Volume To Be Infused Original Setting,-,Settings 
+1110,KVO Rate Setting,-,Settings 
+1186,Inspired Minute Volume,-,VitalSigns 
+1190,I:E Ratio,-,VitalSigns 
+1208,SpO2,-,VitalSigns 
+1220,Patient Birth Date,unitless,PatientInfo 
+1234,SpO2 (Pre-Ductal),-,VitalSigns 
+1236,SpO2 (Post-Ductal),-,VitalSigns 
+1244,ECG Lead III,-,VitalSigns 
+1246,Hematocrit,-,VitalSigns 
+1250,Pulmonary Vascular Resistance,-,VitalSigns 
+1251,Body Surface Area,-,PatientInfo 
+1255,ECG Lead MCL1,-,VitalSigns 
+1257,ECG Lead V1,-,VitalSigns 
+1258,ECG Lead V6,-,VitalSigns 
+1259,ECG Lead aVL,-,VitalSigns 
+1260,ECG Lead aVF,-,VitalSigns 
+1261,ECG Lead aVR,-,VitalSigns 
+1262,ECG Lead V2,-,VitalSigns 
+1263,ECG Lead V3,-,VitalSigns 
+1264,ECG Lead V4,-,VitalSigns 
+1265,ECG Lead V5,-,VitalSigns 
+1283,Patient Temperature,-,VitalSigns 
+1286,Micro Environment Air Temperature,-,OtherMeasuredData 
+1306,Tidal Volume,-,VitalSigns 
+1319,Static Resistance,-,VitalSigns 
+1321,Tidal Volume Setting,-,Settings 
+1323,Pressure Sensitivity Setting,-,Settings 
+1324,Sigh Interval Setting,-,Settings 
+1325,Sigh Volume Setting,-,Settings 
+1332,Pressure Support Level Above PEEP Setting,-,Settings 
+1333,Spontaneous Minute Volume,-,VitalSigns 
+1340,Negative Inspiratory Pressure,-,VitalSigns 
+1342,Peak Spontaneous Flow,-,VitalSigns 
+1343,Flow-by Base Flow Setting,-,Settings 
+1344,Flow Sensitivity Setting,-,Settings 
+1348,Expiratory Time,-,VitalSigns 
+1381,Inspiratory Flow Setting,-,Settings 
+1382,Expiratory Flow Setting,-,Settings 
+1383,Inspiratory Flow Trigger Setting,-,Settings 
+1387,APRV Low Pressure Setting,-,Settings 
+1389,APRV High Pressure Setting,-,Settings 
+1391,Apnea Time Setting,-,Settings 
+1398,Minute Volume Setting,-,Settings 
+1418,Positive End Expiratory Pressure (PEEP),-,VitalSigns 
+1419,Ventilator Work of Breathing,-,VitalSigns 
+1422,Rapid Shallow Breathing Index,-,VitalSigns 
+1424,Patient Work of Breathing,-,VitalSigns 
+1435,Systemic Vascular Resistance Index,-,VitalSigns 
+1436,Pulmonary Vascular Resistance Index,-,VitalSigns 
+1442,Continuous Cardiac Output,-,VitalSigns 
+1443,Continuous Cardiac Output Index,-,VitalSigns 
+1451,Pump Infusion Status,-,DeviceInfo 
+1463,Hemoglobin (Hb),-,VitalSigns 
+1464,Pleth Wave (Pre-Ductal),-,Waveforms 
+1465,Pleth Wave (Post-Ductal),-,Waveforms 
+1466,Arterial Venous O2 Content Difference,-,VitalSigns 
+1467,O2 Delivery (DO2),-,VitalSigns 
+1469,O2 Extraction Ratio (O2ER),-,VitalSigns 
+1471,O2 Delivery Index (DO2I),-,VitalSigns 
+1472,O2 Consumption Index (VO2I),-,VitalSigns 
+1473,Oxygenation Ratio (PaO2/FiO2),-,VitalSigns 
+1475,Physiologic Dead Space,-,VitalSigns 
+1477,Alveolar Ventilation Volume (VA),-,VitalSigns 
+1478,Urea Nitrogen Concentration (BUN),-,VitalSigns 
+1479,Creatinine Concentration (Crea),-,VitalSigns 
+1480,Plasma Osmolarity (Osm),-,VitalSigns 
+1482,Urine Creatinine,-,VitalSigns 
+1484,Urine Potassium (K+),-,VitalSigns 
+1486,Urine Osmolarity,-,VitalSigns 
+1487,Blood Urea Nitrogen Creatinine Ratio (BUN/cr),-,VitalSigns 
+1488,Osmolar Clearance (COSM),-,VitalSigns 
+1489,Creatinine Clearance (CreaCl),-,VitalSigns 
+1490,Fractional Excretion of Sodium (FeNa),-,VitalSigns 
+1493,Urine Serum Creatinine Ratio,-,VitalSigns 
+1495,Urine Potassium Excretion,-,VitalSigns 
+1496,Urine Sodium Excretion,-,VitalSigns 
+1497,Free Water Clearance (CH2O),-,VitalSigns 
+1520,Inspired N2O,-,VitalSigns 
+1523,Premature Ventricular Contractions,-,VitalSigns 
+1533,LAP Systolic,-,VitalSigns 
+1534,LAP Diastolic,-,VitalSigns 
+1540,TcGas Heating Power,-,DeviceInfo 
+1556,Abdominal Fetal Heart Rate (FHR),-,VitalSigns 
+1557,Abdominal Fetal Beat-to-Beat Rate (FHR),-,VitalSigns 
+1558,Patient Activity Level (Movement),-,VitalSigns 
+1559,Patient Activity Level (Wearable),-,VitalSigns 
+1569,Minimum Airway Pressure,-,VitalSigns 
+1570,P0.1 Occlusion Pressure,-,VitalSigns 
+1573,Patient CO2 Production,-,VitalSigns 
+1574,Relative Dead Space,-,VitalSigns 
+1590,Procalcitonin (PCT),-,VitalSigns 
+1607,Fetal Heart Rate (USound),-,VitalSigns 
+1609,Fetal Beat-to-Beat Rate (USound),-,VitalSigns 
+1630,HFV Mean Pressure Setting,-,Settings 
+1631,HFV Tidal Volume Setting,-,Settings 
+1645,PAV-based Resistance Setting,-,Settings 
+1646,PAV-based Elastance Setting,-,Settings 
+1703,Abdominal TOCO,-,VitalSigns 
+1704,Chest Movement Respiration Rate,-,VitalSigns 
+1705,Patient Movement Respiration Rate,-,VitalSigns 
+1706,Patient Movement Pulse Rate,-,VitalSigns 
+1707,Respiration Signal Quality Index (Movement),-,OtherMeasuredData 
+1710,Cardiac Power Index (CCO),-,VitalSigns 
+1711,Cardiac Power Output (CCO),-,VitalSigns 
+1715,Central Venous Pressure (Thermodilution),-,VitalSigns 
+1716,Mean Arterial Pressure (Thermodilution),-,VitalSigns 
+1718,Average Blood Temperature (Thermodilution),-,VitalSigns 
+1723,O2 Delivery DO2 (Thermodilution),-,VitalSigns 
+1724,O2 Consumption (Thermodilution),-,VitalSigns 
+1725,O2 Consumption Index (Thermodilution),-,VitalSigns 
+1733,Global End-Diastolic Volume (Thermodilution),-,VitalSigns 
+1734,Global End-Diastolic Volum Index (Thermodilution),-,VitalSigns 
+1735,Pulmonary Vascular Permeability Index (Thermodilution),-,VitalSigns 
+1737,Stroke Volume (Thermodilution),-,VitalSigns 
+1738,Stroke Volume Index (Thermodilution),-,VitalSigns 
+1739,O2 Consumption Estimate,-,VitalSigns 
+1745,EEG1 Wave,-,Waveforms 
+1746,EEG2 Wave,-,Waveforms 
+1747,EEG3 Wave,-,Waveforms 
+1748,EEG4 Wave,-,Waveforms 
+1751,Spectral Edge Frequency,-,VitalSigns 
+1757,Burst Suppression Ratio,-,VitalSigns 
+1759,Patient Energy Expenditure,-,VitalSigns 
+1760,Patient Respiratory Quotient,-,VitalSigns 
+1782,Spectral Edge Frequency (CH3),-,VitalSigns 
+1784,Relative Power In Delta Band (CH3),-,VitalSigns 
+1785,Relative Power In Theta Band (CH3),-,VitalSigns 
+1786,Relative Power In Alpha Band (CH3),-,VitalSigns 
+1787,Relative Power In Beta Band (CH3),-,VitalSigns 
+1790,Spectral Edge Frequency (CH4),-,VitalSigns 
+1792,Relative Power In Delta Band (CH4),-,VitalSigns 
+1793,Relative Power In Theta Band (CH4),-,VitalSigns 
+1794,Relative Power In Alpha (CH4),-,VitalSigns 
+1795,Relative Power In Beta Band (CH4),-,VitalSigns 
+1911,Device Unique ID,unitless,DeviceInfo 
+1914,Patient Bed ID,unitless,PatientInfo 
+1929,Patient ID,unitless,PatientInfo 
+1930,Patient Name,unitless,PatientInfo 
+1942,Patient Comment Text,unitless,PatientInfo 
+1955,Patient Stress Index,-,PatientInfo 
+1982,Generic Patient Temperature,-,VitalSigns 
+2049,Breath Cycle Type,-,DeviceInfo 
+2077,Airway Gas Flow Rate,-,VitalSigns 
+2092,Inspired Minute Volume,-,VitalSigns 
+2104,Positive End Expiratory Pressure (PEEP) Setting,-,Settings 
+2163,Spectral Edge Frequency - 1st EEG,-,VitalSigns 
+2167,Bispectral Index,-,VitalSigns 
+2168,Total Power (Ch1),-,VitalSigns 
+2169,Spike Rate,-,VitalSigns 
+2173,Spectral Edge Frequency - 2nd EEG,-,VitalSigns 
+2178,Total Power (Ch2),-,VitalSigns 
+2182,Narcotrend Index,-,VitalSigns 
+2183,Sharp Transient Intensity,-,VitalSigns 
+2188,Total Power Relative,-,VitalSigns 
+2200,Device Hardware Revision,unitless,DeviceInfo 
+2201,Serial Number,unitless,DeviceInfo 
+2246,O2 Flush Percentage Setting,-,Settings 
+2250,CO2 Tidal Production,-,VitalSigns 
+2254,Inspiratory Resistance,-,VitalSigns 
+2255,Device Date/Time,unitless,DeviceInfo 
+2259,Arterial BP Systolic,-,VitalSigns 
+2260,Arterial BP Diastolic,-,VitalSigns 
+2261,Arterial BP Mean,-,VitalSigns 
+2262,Pulmonary Artery BP - Systolic,-,VitalSigns 
+2263,Pulmonary Artery BP - Diastolic,-,VitalSigns 
+2264,Pulmonary Artery BP Mean,-,VitalSigns 
+2271,Right Atrial Pressure (RAP),-,VitalSigns 
+2272,Left Atrial Pressure (LAP),-,VitalSigns 
+2273,Intra Cranial Pressure (ICP),-,VitalSigns 
+2317,Pulmonary Artery Wedge Pressure,-,VitalSigns 
+2321,Generic NIBP Systolic Pressure,-,VitalSigns 
+2322,Generic NIBP Diastolic Pressure,-,VitalSigns 
+2323,Generic NIBP Mean Pressure,-,VitalSigns 
+2324,Inspired Tidal Volume,-,VitalSigns 
+2325,Expired Tidal Volume,-,VitalSigns 
+2326,Expired Minute Volume,-,VitalSigns 
+2341,Patient Blood Temperature,-,VitalSigns 
+2342,Injectate Temperature,-,OtherMeasuredData 
+2343,Inspired O2,-,VitalSigns 
+2350,Inspired O2 Pressure,-,VitalSigns 
+2351,End Tidal O2,-,VitalSigns 
+2352,CO2 (Gas Analyzer),-,VitalSigns 
+2357,End Tidal N2O,-,VitalSigns 
+2360,End Tidal Agent Concentration,-,VitalSigns 
+2362,End Tidal Desflurane,-,VitalSigns 
+2364,End Tidal Sevoflurane,-,VitalSigns 
+2366,End Tidal Halothane,-,VitalSigns 
+2368,End Tidal Enflurane,-,VitalSigns 
+2370,End Tidal Isoflurane,-,VitalSigns 
+2378,Fresh Gas N2O Flow,-,DeviceInfo 
+2379,Fresh Gas Air Flow,-,DeviceInfo 
+2391,Transcutaneous O2 Pressure,-,VitalSigns 
+2392,Transcutaneous CO2 Pressure,-,VitalSigns 
+2399,Arterial O2 Saturation (SaO2),-,VitalSigns 
+2408,EEG Total Power,-,VitalSigns 
+2409,Bispectral Index (BIS),-,VitalSigns 
+2411,EEG Burst Suppression Ratio,-,VitalSigns 
+2420,Spontaneous Alveolar Minute Volume,-,VitalSigns 
+2421,Airway Dead Space,-,VitalSigns 
+2432,Expired Spontaneous Tidal Volume,-,VitalSigns 
+2434,Spontaneous Expired Minute Volume,-,VitalSigns 
+2440,Total Alveolar Tidal Volume,-,VitalSigns 
+2447,Respiration Waveform,-,Waveforms 
+2456,EEG Signal Quality Index,-,VitalSigns 
+2517,Wearable Respiration Rate,-,VitalSigns 
+2518,Wearable Pulse Rate,-,VitalSigns 
+2519,Wearable Patient Temperature,-,VitalSigns 
+2520,Respiration Signal Quality Index (Wearable),-,OtherMeasuredData 
+2521,Pulse Rate Signal Quality Index (Wearable),-,OtherMeasuredData 
+2542,Airway Pressure Wave,-,Waveforms 
+2543,Citrate Blood Concentration Setting,-,Settings 
+2547,Neutrophil Count,-,VitalSigns 
+2580,Fresh Gas Total Flow Setting,-,Settings 
+2583,I:E Ratio Setting,unitless,Settings 
+2598,Patient Admission Status,unitless,PatientInfo 
+2602,ECG Lead V,-,VitalSigns 
+2738,Plateau Pressure,-,VitalSigns 
+2773,I:E Ratio Setting,-,Settings 
+2776,Total PEEP,-,VitalSigns 
+2787,APRV Low Time (Tlow),-,VitalSigns 
+2821,System General Status,unitless,DeviceInfo 
+2845,Frequency,Hz,DeviceInfo 
+2855,Device Status,unitless,DeviceInfo 
+2879,Device Software Revision,unitless,DeviceInfo 
+2880,Maximum Apnea Time Setting,-,DeviceInfo 
+2889,Inspired Agent Concentration,-,VitalSigns 
+2898,Patient Weight,-,PatientInfo 
+2901,Patient First Name,unitless,PatientInfo 
+2907,Patient Temperature,-,VitalSigns 
+2915,Ejection Fraction,-,VitalSigns 
+2916,End Diastolic Volume,-,VitalSigns 
+2917,End Diastolic Volume Index,-,VitalSigns 
+2918,End Systolic Volume,-,VitalSigns 
+2919,End Systolic Volume Index,-,VitalSigns 
+2922,EEG Electromyography (EMG),-,VitalSigns 
+2923,Generic EEG Wave,-,Waveforms 
+2924,ECG Pad Wave,-,Waveforms 
+2925,ECG Paddle Wave,-,Waveforms 
+2930,Unspecific Pressure Pulse Rate,-,VitalSigns 
+2932,Patient Temperature 1,-,VitalSigns 
+2933,Patient Temperature 2,-,VitalSigns 
+2954,APRV High Pressure (Phigh),-,VitalSigns 
+2959,APRV Low Pressure (Plow),-,VitalSigns 
+2964,I:E Ratio,unitless,VitalSigns 
+2968,Plateau Airway Pressure,-,VitalSigns 
+2984,Plateau Pressure Setting,-,Settings 
+2991,FiO2 Upper Alarm Limit,-,Settings 
+2992,FiO2 Lower Alarm Limit,-,Settings 
+2995,Device Altitude,m,DeviceInfo 
+3003,Blood Flow Rate Setting,-,Settings 
+3005,Dialysate Flow Rate Setting,-,Settings 
+3007,Effluent Flow Rate Setting,-,Settings 
+3024,Access Pod Pressure,-,OtherMeasuredData 
+3025,Return Pod Pressure,-,OtherMeasuredData 
+3026,Filter Pod Pressure,-,OtherMeasuredData 
+3027,Effluent Pod Pressure,-,OtherMeasuredData 
+3029,Transmembrane Pressure,-,VitalSigns 
+3062,Hb Calculation Offset,-,VitalSigns 
+3091,Patient Time Since Last Ward Admission,-,PatientInfo 
+3092,Patient Total Admission Time,-,PatientInfo 
+3101,Patient Drainage Volume,-,VitalSigns 
+3168,Fluid Removal Actual Rate,-,VitalSigns 
+3204,Sum of Minimum Alveolar Concentration (MAC),-,VitalSigns 
+3266,HFV Frequency Setting,-,Settings 
+3268,Ventilator Base Flow Setting,-,Settings 
+3271,Blood Pressure Difference,-,VitalSigns 
+3272,Generic Blood Pressure Difference 1,-,VitalSigns 
+3273,Generic Blood Pressure Difference 2,-,VitalSigns 
+3278,Patient Height,-,PatientInfo 
+3291,Patient Temperature Setting,-,Settings 
+3385,Arterial O2 Content (CaO2),-,VitalSigns 
+3391,Alveolar Arterial O2 Difference (AaDO2),-,VitalSigns 
+3400,Venous O2 Content (CvO2),-,VitalSigns 
+3415,Ionized Calcium Concentration (Ca),-,VitalSigns 
+3421,Chloride Concentration (Cl-),-,VitalSigns 
+3435,Activated Clotting Time,-,VitalSigns 
+3446,Generic Temperature,-,VitalSigns 
+3447,Generic Temperature 2,-,VitalSigns 
+3448,Generic Temperature 3,-,VitalSigns 
+3449,Generic Temperature 4,-,VitalSigns 
+3474,Expiratory Resistance,-,VitalSigns 
+3490,TcGas Site Timer,-,OtherMeasuredData 
+3491,O2 Saturation (SO2),-,VitalSigns 
+3496,TcGas Transducer Temperature,-,DeviceInfo 
+3502,Peak Expiratory Flow Setting,-,Settings 
+3503,Auto Flow Active Status,-,DeviceInfo 
+3506,Inspiratory Minimum CO2,-,VitalSigns 
+3507,Expired Tidal Volume Indexed by Body Weight,-,VitalSigns 
+3555,ATC Activation Status,-,DeviceInfo 
+3570,Skin Temperature,-,VitalSigns 
+3571,Rectal Temperature,-,VitalSigns 
+3572,Nasopharyngeal Temperature,-,VitalSigns 
+3573,Esophageal Temperature,-,VitalSigns 
+3574,Core Temperature,-,VitalSigns 
+3575,Arterial Temperature,-,VitalSigns 
+3576,Venous Temperature,-,VitalSigns 
+3583,Generic Core Temperature 1,-,VitalSigns 
+3584,Generic Core Temperature 2,-,VitalSigns 
+3591,Device Number,unitless,DeviceInfo 
+3635,Drug Delivery Rate,-,DeviceInfo 
+3637,Drug Concentration,-,PatientInfo 
+3639,Manufacturers Name,unitless,DeviceInfo 
+3640,Pressure Alarm Delay,-,DeviceInfo 
+3646,Arterial Blood Pressure (ART),-,VitalSigns 
+3647,Pulmonary Artery Blood Pressure (PA),-,VitalSigns 
+3704,Arterial/Main Pump Flow,-,VitalSigns 
+3710,Slave Pump Flow,-,VitalSigns 
+3715,Suction Pump Flow,-,VitalSigns 
+3720,Auxiliary Pump Flow,-,VitalSigns 
+3723,Auxiliary Pump Time Since Start of Current Plegia Session,-,VitalSigns 
+3724,Auxiliary Pump Time Since Stop of Plegia Session,-,VitalSigns 
+3725,Auxiliary Pump Delivered Volume in Current Plegia Session,-,VitalSigns 
+3726,Auxiliary Pump Total Volume,-,VitalSigns 
+3727,Auxiliary Pump Total Plegia Time,-,VitalSigns 
+3730,Cardioplegia Main Pump Flow,-,VitalSigns 
+3733,Cardioplegia Main Pump Delivered Volume of Current Plegia Session,-,VitalSigns 
+3734,Cardioplegia Main Pump Total Volume,-,VitalSigns 
+3737,Cardioplegia Slave Pump Flow,-,VitalSigns 
+3740,Cardioplegia Slave Pump Delivered Volume in Current Plegia Session,-,VitalSigns 
+3741,Cardioplegia Slave Pump Total Volume,-,VitalSigns 
+3742,Cycle Flow Sensitivity Setting,-,Settings 
+3761,Hydrocarbon Plasma Concentration (HCO3),-,VitalSigns 
+3781,Corpuscular Mean Hemoglobin Concentration,-,VitalSigns 
+3785,Arterial O2 Partial Pressure,-,VitalSigns 
+3786,Venous O2 Partial Pressure,-,VitalSigns 
+3787,Arterial CO2 Partial Pressure,-,VitalSigns 
+3789,Arterial O2 Saturation (SaO2),-,VitalSigns 
+3793,Hematocrit (HCT),-,VitalSigns 
+3804,Respiratory Rate (Flow),-,VitalSigns 
+3805,Respiratory Rate (CO2),-,VitalSigns 
+3853,Patient Type,unitless,PatientInfo 
+3854,Patient Pace Maker Status,unitless,PatientInfo 
+3869,Heart Rate Signal Quality,-,OtherMeasuredData 
+3917,Tracheal Pressure,-,VitalSigns 
+3921,Ventilator Leakage,-,VitalSigns 
+3961,Plateau Time Setting,-,Settings 
+3963,Warmer Mattress Temperature,-,OtherMeasuredData 
+3968,Spontaneous Fraction of Minute Volume,-,VitalSigns 
+4004,Breathing System Leakage,-,OtherMeasuredData 
+4006,Inspired MAC Concentration,-,VitalSigns 
+4008,Inspiratory 2nd Agent,-,VitalSigns 
+4009,Expiratory 2nd Agent,-,VitalSigns 
+4012,Volume Assist Level Setting,-,Settings 
+4014,Backup Tidal Volume Setting,-,Settings 
+4016,Flow Acceleration Setting,-,Settings 
+4017,Cumulated Halothane Consumption,-,OtherMeasuredData 
+4018,Cumulated Enflurane Consumption,-,OtherMeasuredData 
+4019,Cumulated Isoflurane Consumption,-,OtherMeasuredData 
+4020,Cumulated Desflurane Consumption,-,OtherMeasuredData 
+4021,Cumulated Sevoflurane Consumption,-,OtherMeasuredData 
+4026,Air Humidity Setting,-,Settings 
+4028,Mattress Temperature Setting,-,Settings 
+4029,Inspired Agent Setting,-,Settings 
+4030,Expired Agent Setting,-,Settings 
+4037,Inspired Desflurane Setting,-,Settings 
+4038,Expired Desflurane Setting,-,Settings 
+4039,Inspired Sevoflurane Setting,-,Settings 
+4040,Expired Sevoflurane Setting,-,Settings 
+4079,Fresh Gas Sevoflurane,-,VitalSigns 
+4080,Fresh Gas Desflurane,-,VitalSigns 
+4081,Ambient Temperature,-,OtherMeasuredData 
+4082,Ambient Pressure,-,OtherMeasuredData 
+4084,Pulse Rate ( Unspecified Source ),-,VitalSigns 
+4089,Central Venous Pressure Diastolic,-,VitalSigns 
+4093,Central Venous Mean Pressure,-,VitalSigns 
+4094,Central Venous Pressure Systolic,-,VitalSigns 
+4120,Expiratory Volume Wave,-,Waveforms 
+4143,Apnea Ventilation I:E Ratio Setting (Number),-,Settings 
+4145,Dynamic Plateau Airway Pressure,-,VitalSigns 
+4158,Transcutaneous Relative Heater Power,-,OtherMeasuredData 
+4171,Spontaneous Respiratory Rate Setting,-,Settings 
+4201,Product Description,unitless,DeviceInfo 
+4226,Replacement Cumulated Volume,-,VitalSigns 
+4227,Dialysate Cumulated Volume,-,VitalSigns 
+4228,Effluent Cumulated Volume,-,VitalSigns 
+4229,Fluid Removal Cumulated Volume,-,VitalSigns 
+4352,Base Pressure,-,VitalSigns 
+4369,PEEP/CPAP Setting,-,Settings 
+4370,Sigh Rate Setting,-,Settings 
+4371,Sigh Tidal Volume Setting,-,Settings 
+4375,Data Averaging Interval Setting,-,Settings 
+4376,Chart Interval Setting,-,Settings 
+4383,Static Lung Compliance,-,VitalSigns 
+4384,Static Lung Resistance,-,VitalSigns 
+4385,Dynamic Lung Compliance,-,VitalSigns 
+4386,Dynamic Lung Resistance,-,VitalSigns 
+4388,Apnea Inspiratory Pressure Setting,-,Settings 
+4393,Patient Hose Compliance,-,OtherMeasuredData 
+4401,Oximeter Averaging Interval Setting,-,Settings 
+4457,System Alarm Status,unitless,Alarms 
+4458,Patient Alarm Priority,unitless,Alarms 
+4459,Technical Alarm Priority,unitless,Alarms 
+4460,Audio Alarm Priority,unitless,Alarms 
+4461,Technical Alarm Source ID,unitless,Alarms 
+4462,Technical Alarm Global State,unitless,Alarms 
+4463,Technical Alarm Priority,unitless,Alarms 
+4464,Technical Alarm Flag,unitless,Alarms 
+4465,Technical Alarm Priority,unitless,Alarms 
+4466,Technical Alarm Description,unitless,Alarms 
+4467,Patient Alarm Source ID,unitless,Alarms 
+4468,Patient Alarm Global State,unitless,Alarms 
+4469,Patient Alarm Priority,unitless,Alarms 
+4470,Patient Alarm Flag,unitless,Alarms 
+4471,Patient Alarm Priority,unitless,Alarms 
+4472,Patient Alarm Description,unitless,Alarms 
+4473,Device Nomenclature Revision,unitless,DeviceInfo 
+4474,Device Text Catalog Revision,unitless,DeviceInfo 
+4475,Device Data Format,unitless,DeviceInfo 
+4476,Device Operating Area,unitless,DeviceInfo 
+4496,Patient O2 Consumption (VO2),-,VitalSigns 
+4497,Patient CO2 Production (VCO2),-,VitalSigns 
+4507,Arterial O2 Saturation (Left),-,VitalSigns 
+4508,Arterial O2 Saturation (Right),-,VitalSigns 
+4509,SpO2 Difference,-,VitalSigns 
+4510,Perfusion Indicator,-,VitalSigns 
+4511,Relative Perfusion (Left),-,VitalSigns 
+4512,Relative Perfusion (Right),-,VitalSigns 
+4513,Ao Systolic,-,VitalSigns 
+4514,Ao Diastolic,-,VitalSigns 
+4515,Ao Mean,-,VitalSigns 
+4516,RAP Systolic,-,VitalSigns 
+4517,RAP Diastolic,-,VitalSigns 
+4518,RAP Mean,-,VitalSigns 
+4519,Intracranial Pressure ICP Systolic,-,VitalSigns 
+4520,Intracranial Pressure ICP Diastolic,-,VitalSigns 
+4521,ICP Mean,-,VitalSigns 
+4522,UAP Systolic,-,VitalSigns 
+4523,UAP Diastolic,-,VitalSigns 
+4524,UAP Mean,-,VitalSigns 
+4525,UVP Systolic,-,VitalSigns 
+4526,UVP Diastolic,-,VitalSigns 
+4527,UVP Mean,-,VitalSigns 
+4528,Unspecific Pressure Systolic,-,VitalSigns 
+4529,Unspecific Pressure Diastolic,-,VitalSigns 
+4530,Unspecific Pressure Mean,-,VitalSigns 
+4531,Cerebral Perfusion Pressure (CPP),-,VitalSigns 
+4532,Stroke Volume Variation,-,VitalSigns 
+4533,Index of Left Ventricular Contractility,-,VitalSigns 
+4556,Aortic Blood Pressure (Ao) Wave,-,Waveforms 
+4560,Auxiliary Waveform,-,Waveforms 
+4561,Intermittent Mandatory Ventilation Status,-,VitalSigns 
+4562,Left Cardiac Work,-,VitalSigns 
+4564,Right Cardiac Work,-,VitalSigns 
+4565,Serum Creatinine,-,VitalSigns 
+4566,Urine Plasma Osmolarity Ratio,-,VitalSigns 
+4567,Urine Sodium Potassium Ratio,-,VitalSigns 
+4568,Urine Volume,-,VitalSigns 
+4574,Left Cardiac Work Index,-,VitalSigns 
+4576,Right Cardiac Work Index,-,VitalSigns 
+4577,Light Intensity (SvO2 Module),-,VitalSigns 
+4578,SpO2 SvO2 Difference,-,VitalSigns 
+4581,Normalized Post Replacement Volume,-,VitalSigns 
+4582,Normalized Effluent Volume,-,VitalSigns 
+4584,Normalized Total Replacement Volume (PBP),-,VitalSigns 
+4585,Normalized Replacement Volume (Pre),-,VitalSigns 
+4586,Normalized Ultrafiltration Volume,-,VitalSigns 
+4587,Patient Fluid Balance Limit Setting,-,Settings 
+4588,Total Replacement Volume (PBP),-,VitalSigns 
+4589,Cumulated Liquid Volume (Pre),-,VitalSigns 
+4593,Filtration Fraction Setting,-,Settings 
+4616,Diff.-Temperature between Tblood and Tskin,-,VitalSigns 
+4617,Diff.-Temperature between Tblood and Trect,-,VitalSigns 
+4618,Diff.-Temperature between Tblood and Tnaso,-,VitalSigns 
+4619,Diff.-Temperature between Tblood and Tesop,-,VitalSigns 
+4620,Diff.-Temperature between Tblood and Tcore,-,VitalSigns 
+4621,Diff.-Temperature between Tblood and Tart,-,VitalSigns 
+4622,Diff.-Temperature between Tblood and Tven,-,VitalSigns 
+4623,Diff.-Temperature between Tskin and Trect,-,VitalSigns 
+4624,Diff.-Temperature between Tskin and Tnaso,-,VitalSigns 
+4625,Diff.-Temperature between Tskin and Tesop,-,VitalSigns 
+4626,Diff.-Temperature between Tskin and Tcore,-,VitalSigns 
+4627,Diff.-Temperature between Tskin and Tart,-,VitalSigns 
+4628,Diff.-Temperature between Tskin and Tven,-,VitalSigns 
+4629,Diff.-Temperature between Trect and Tnaso,-,VitalSigns 
+4630,Diff.-Temperature between Trect and Tesop,-,VitalSigns 
+4631,Diff.-Temperature between Trect and Tcore,-,VitalSigns 
+4632,Diff.-Temperature between Trect and Tart,-,VitalSigns 
+4633,Diff.-Temperature between Trect and Tven,-,VitalSigns 
+4634,Diff.-Temperature between Tnaso and Tesop,-,VitalSigns 
+4635,Diff.-Temperature between Tnaso and Tcore,-,VitalSigns 
+4636,Diff.-Temperature between Tnaso and Tart,-,VitalSigns 
+4637,Diff.-Temperature between Tnaso and Tven,-,VitalSigns 
+4638,Diff.-Temperature between Tesop and Tcore,-,VitalSigns 
+4639,Diff.-Temperature between Tesop and Tart,-,VitalSigns 
+4640,Diff.-Temperature between Tesop and Tven,-,VitalSigns 
+4641,Diff.-Temperature between Tcore and Tart,-,VitalSigns 
+4642,Diff.-Temperature between Tcore and Tven,-,VitalSigns 
+4643,Diff.-Temperature between Tart and Tven,-,VitalSigns 
+4644,Newborn Body Length,-,VitalSigns 
+4646,Newborn Gestational Age,-,PatientInfo 
+4647,Calories,-,VitalSigns 
+4648,Input/Output Totals,-,VitalSigns 
+4649,Newborn Apgar Scores,-,PatientInfo 
+4650,BSA Formula Boyd,-,PatientInfo 
+4651,BSA Formula Dubois,-,PatientInfo 
+4653,Pupil Reaction (Left Eye),-,VitalSigns 
+4654,Pupil Reaction (Right Eye),-,VitalSigns 
+4661,Pleth Gain,-,DeviceInfo 
+4662,Airway Temperature,-,VitalSigns 
+4663,Ventilation Perfusion Index,-,VitalSigns 
+4664,O2 Extraction Index,-,VitalSigns 
+4665,Duration Above Base Pressure,-,VitalSigns 
+4666,Inspiration Rise Time,-,VitalSigns 
+4667,Continuous Positive Airway Pressure (CPAP),-,VitalSigns 
+4668,HFV Amplitude,-,VitalSigns 
+4669,Urine Urea,-,VitalSigns 
+4670,Urine pH Value,-,VitalSigns 
+4671,Total of CO2 (tCO2),-,VitalSigns 
+4672,Total Bilirubin,-,VitalSigns 
+4673,Serum Glucose,-,VitalSigns 
+4674,Urine Glucose,-,VitalSigns 
+4675,Direct Bilirubin,-,VitalSigns 
+4676,Serum Calcium,-,VitalSigns 
+4677,Total Serum Calcium,-,VitalSigns 
+4678,Serum Magnesium,-,VitalSigns 
+4679,Serum Phosphat,-,VitalSigns 
+4680,Serum Kalium (Potassium),-,VitalSigns 
+4681,Serum Clorid,-,VitalSigns 
+4682,Serum Albumine,-,VitalSigns 
+4683,Urine Clorid,-,VitalSigns 
+4684,Serum Globulin,-,VitalSigns 
+4685,Serum Protein,-,VitalSigns 
+4686,Serum Urea,-,VitalSigns 
+4687,Partial Thromboplastin Time,-,VitalSigns 
+4688,Prothrombin Time,-,VitalSigns 
+4689,Thrombin Time,-,VitalSigns 
+4690,Thromboplastine Time (Quick Time),-,VitalSigns 
+4691,Alkalische Phosphatase,-,VitalSigns 
+4692,Alpha Amylase,-,VitalSigns 
+4693,Cholesterinesterase,-,VitalSigns 
+4694,Creatinin Kinase,-,VitalSigns 
+4695,Creatine Kinase of Type Muscle-Brain,-,VitalSigns 
+4696,Creatine Kinase of Type Muscle,-,VitalSigns 
+4697,Gamma Glutamyl Transpeptidase,-,VitalSigns 
+4698,Glutamic Oxaloacetic Transaminase,-,VitalSigns 
+4699,Glutamic Pyruvic Transaminase,-,VitalSigns 
+4700,Cholesterin,-,VitalSigns 
+4701,Triglyzeride,-,VitalSigns 
+4702,Urine Protein,-,VitalSigns 
+4703,Urine Calcium,-,VitalSigns 
+4704,Carboxy Hemoglobin,-,VitalSigns 
+4705,Total Protein,-,VitalSigns 
+4706,Lactate Dehydrogenase,-,VitalSigns 
+4707,Aspartin Aminotransferase,-,VitalSigns 
+4708,Alveolarproteinose (Alkaline Phosphatase),-,VitalSigns 
+4709,Reticulocyte Count,-,VitalSigns 
+4710,Coagulation Time,-,VitalSigns 
+4711,Erithrocyte Sedimentation Rate,-,VitalSigns 
+4712,Packed Cell Volume,-,VitalSigns 
+4713,Kaolin Cephalin Time,-,VitalSigns 
+4715,Minimum Pressure During Breathing Cycle,-,VitalSigns 
+4716,Infusion Pump Accumulated Volume,-,OtherMeasuredData 
+4717,Transthoracic Impedance,-,VitalSigns 
+4718,Inspired Expired N2O Difference,-,VitalSigns 
+4719,Inspired Expired Halothane Difference,-,VitalSigns 
+4720,Inspired Expired Enfluran Difference,-,VitalSigns 
+4721,Inspired Expired Isofluran Difference,-,VitalSigns 
+4722,Inspired Expired Sevofluran Difference,-,VitalSigns 
+4723,Inspired Expired Desfluran Difference,-,VitalSigns 
+4724,Inspired Expired Agent Difference,-,VitalSigns 
+4725,Inspired Expired O2 Difference,-,VitalSigns 
+4726,Patient Circuit O2,-,VitalSigns 
+4727,Barometric Pressure in Sample Chamber,-,OtherMeasuredData 
+4728,Minute Volume,-,VitalSigns 
+4729,Mean Airway Pressure,-,VitalSigns 
+4730,Airway Respiration Rate,-,VitalSigns 
+4731,Inspiratory Airway Pressure Waveform,-,Waveforms 
+4732,Inspiratory Flow Waveform,-,Waveforms 
+4733,HFV Inspired Mandatory Minute Volume,-,VitalSigns 
+4734,HFV Gas Transport Coefficient Value,-,VitalSigns 
+4735,HFV Inspired Tidal Volume,-,VitalSigns 
+4736,HFV Tidal Volume,-,VitalSigns 
+4738,Generic Heart Rate,-,VitalSigns 
+4739,PERF from the 2nd SpO2/PLETH module,-,VitalSigns 
+4741,Percent Alpha (Left),-,VitalSigns 
+4742,Percent Beta (Left),-,VitalSigns 
+4745,Absolute Alpha (Left),-,VitalSigns 
+4746,Absolute Beta (Left),-,VitalSigns 
+4747,Absolute Delta (Left),-,VitalSigns 
+4748,Absolute Theta (Left),-,VitalSigns 
+4749,Mean Dominant Frequency (Left),-,VitalSigns 
+4750,Median Power Frequency (Left),-,VitalSigns 
+4751,Peak Power Frequency (Left),-,VitalSigns 
+4752,Spectral Edge Frequency (Left),-,VitalSigns 
+4753,Total Power (Left),-,VitalSigns 
+4754,Scale of the Left Channel EEG Wave,-,VitalSigns 
+4755,Percent Alpha (Right),-,VitalSigns 
+4756,Percent Beta (Right),-,VitalSigns 
+4759,Absolute Alpha (Right),-,VitalSigns 
+4760,Absolute Beta (Right),-,VitalSigns 
+4761,Absolute Delta (Right),-,VitalSigns 
+4762,Absolute Theta (Right),-,VitalSigns 
+4763,Mean Dominant Frequency (Right),-,VitalSigns 
+4764,Median Power Frequency (Right),-,VitalSigns 
+4765,Peak Power Frequency (Right),-,VitalSigns 
+4766,Spectral Edge Frequency (Right),-,VitalSigns 
+4767,Total Power (Right),-,VitalSigns 
+4768,Scale of the Right Channel EEG Wave,-,VitalSigns 
+4769,Duration of Positive Pressure,-,VitalSigns 
+4772,Fresh Gas N2O Concentration,-,VitalSigns 
+4774,Liquid Level (Anesthetic Agent Bottle),-,OtherMeasuredData 
+4775,Liquid Level (ISOflurane Bottle),-,OtherMeasuredData 
+4776,Liquid Level (ENFlurane Bottle),-,OtherMeasuredData 
+4777,Liquid Level (HALothane Bottle),-,OtherMeasuredData 
+4778,Liquid Level (DESflurane Bottle),-,OtherMeasuredData 
+4779,Liquid Level (SEVoflurane Bottle),-,OtherMeasuredData 
+4780,Invasive Blood Pressure Wave,-,Waveforms 
+4781,Urine Shift Volume,-,VitalSigns 
+4782,Urine Flow Rate,-,VitalSigns 
+4786,Mean Dominant Frequency (CH1),-,VitalSigns 
+4787,Mean Dominant Frequency (CH2),-,VitalSigns 
+4788,Peak Power Frequency (CH1),-,VitalSigns 
+4789,Peak Power Frequency (CH2),-,VitalSigns 
+4794,% of Power in the Alpha Band (CH1),-,VitalSigns 
+4795,% of Power in the Alpha Band (CH2),-,VitalSigns 
+4796,% of Power in the Beta Band (1st EEG),-,VitalSigns 
+4797,% of Power in the Beta Band (2nd EEG),-,VitalSigns 
+4800,Hemoglobin,-,VitalSigns 
+4801,Patient Temperature,-,VitalSigns 
+4802,Capillaries pH Value,-,VitalSigns 
+4803,Adjusted pH (at Patient Temperature),-,VitalSigns 
+4804,Adjusted Capillaries pH Value,-,VitalSigns 
+4805,Partial O2 in the Capillaries,-,VitalSigns 
+4806,Adjusted PO2 (at Patient Temperature),-,VitalSigns 
+4807,Adjusted PcO2 (at Patient Temperature),-,VitalSigns 
+4808,Venous CO2 Partial Pressure (PvCO2),-,VitalSigns 
+4809,Partial CO2 in the Capillaries,-,VitalSigns 
+4811,Adjusted PcCO2 (at Patient Temperature),-,VitalSigns 
+4812,Calculated Total CO2 (tCO2),-,VitalSigns 
+4813,Calculated SO2,-,VitalSigns 
+4815,Calculated SvO2,-,VitalSigns 
+4816,Calculated ScO2,-,VitalSigns 
+4817,Calculated HCO3,-,VitalSigns 
+4818,Base Excess of Extra Cellular Fluid,-,VitalSigns 
+4819,Calculated Anion Gap,-,VitalSigns 
+4821,Urea,-,VitalSigns 
+4822,Manually Entered FiO2,-,Settings 
+4823,Calculated Arterial Blood Base Excess,-,VitalSigns 
+4824,Ionized Magnesium,-,VitalSigns 
+4826,Desired Module Temperature,-,Settings 
+4827,Calculated BUN/Creatinine Ratio,-,VitalSigns 
+4828,Calculated Urea/Creatinine Ratio,-,VitalSigns 
+4829,Lactate,-,VitalSigns 
+4830,Device Simulator Status,-,DeviceInfo 
+4835,Pressure of Sensor 1,-,VitalSigns 
+4836,Pressure of Sensor 2,-,VitalSigns 
+4837,Module Temperature,-,OtherMeasuredData 
+4843,Air Temperature,-,OtherMeasuredData 
+4844,Micro Environment Air Temperature Setting,-,Settings 
+4847,Weight of the Urine Disposable Bag,-,VitalSigns 
+4848,Total Urine Volume of the Current Measurement Period,-,VitalSigns 
+4849,Urine Fluid Density,-,VitalSigns 
+4850,Urine Fluid Temperature,-,VitalSigns 
+4854,Ventilation Activated Status,-,VitalSigns 
+4856,Simplified Acuity Physiologic Score,-,VitalSigns 
+4857,Value Normal,-,VitalSigns 
+4858,Aspartate Aminotransferase,-,VitalSigns 
+4859,Spontaneous Respiration Rate,-,VitalSigns 
+4864,Current Fluid in Urine Bag,-,VitalSigns 
+4865,Cardiac Function Index (Thermodilution),-,VitalSigns 
+4866,Intrathoracic Blood Volume (Thermodilution),-,VitalSigns 
+4867,Intrathoracic Blood Volume Index (Thermodilution),-,VitalSigns 
+4868,Extravascular Lung Water (Thermodilution),-,VitalSigns 
+4869,Extravascular Lung Water Index (Thermodilution),-,VitalSigns 
+4873,NMT TOF Count,-,VitalSigns 
+4874,NMT TOF Ratio,-,VitalSigns 
+4875,Twitch Height of the 1Hz/0.1Hz Stimulation Response,-,VitalSigns 
+4876,Post Tetatic Count,-,VitalSigns 
+4877,Remaining Time to Next Stimulation,-,VitalSigns 
+4878,TOF Response TOF1,-,VitalSigns 
+4879,TOF Response TOF2,-,VitalSigns 
+4880,TOF Response TOF3,-,VitalSigns 
+4881,TOF Response TOF4,-,VitalSigns 
+4883,Activated Partial Thromboplastin Time (aPTT Whole Blood Time),-,VitalSigns 
+4884,Activated Partial Thromboplastin Time (aPTT Plasma Equivalent Time),-,VitalSigns 
+4886,Prothrombin Time (Whole Blood Time),-,VitalSigns 
+4887,Prothrombin Time (Plasma Equivalent Time),-,VitalSigns 
+4888,Prothrombin Time Ratio,-,VitalSigns 
+4889,Spontaneous Inspiration Time,-,VitalSigns 
+4890,Overdistension Index,-,VitalSigns 
+4891,Lung Time Constant,-,VitalSigns 
+4892,Airway Correlation Coefficient,-,VitalSigns 
+4893,Rate Volume Ratio,-,VitalSigns 
+4894,Normalized Ionized Calcium (Ca),-,VitalSigns 
+4956,Peak Inspiratory Flow Setting,-,Settings 
+4957,Trigger Sensitivity Setting,-,Settings 
+4958,Plateau Time Setting,-,Settings 
+4959,Multiple Sigh Number Setting,-,Settings 
+4960,Apnea Tidal Volume Setting,-,Settings 
+4961,Apnea Respiration Rate Setting,-,Settings 
+4962,Apnea Peak Flow Setting,-,Settings 
+4963,Apnea Inspired O2 Setting,-,Settings 
+4964,PSV Pressure Setting,-,Settings 
+4966,Sigh Activation Status,-,DeviceInfo 
+4967,Suction O2 Concentration Setting,-,Settings 
+4968,PCV Control Pressure Setting,-,Settings 
+4969,PCV Inspiratory Time Setting,-,Settings 
+4970,PCV Apnea Respiration Rate Setting,-,Settings 
+4971,PCV Apnea Inspiratory Time Setting,-,Settings 
+4972,PCV Apnea O2 Setting,-,Settings 
+4973,PCV Apnea High Airway Pressure Setting,-,Settings 
+4975,Inspiratory Component of I:E Ratio Setting,-,Settings 
+4976,Expiratory Component of I:E Ratio Setting,-,Settings 
+4977,Inspiratory Component of Apnea Ventilation I:E Ratio Setting,-,Settings 
+4978,Expiratory Component of Apnea Ventilation I:E Ratio Setting,-,Settings 
+4979,Setting: Pressure Ventilation Control,-,Settings 
+4981,Cycle Time Setting,-,Settings 
+4982,IPPV Ventilation Respiration Rate Setting,-,Settings 
+4983,IMV Ventilation Respiration Rate Setting,-,Settings 
+4984,Pressure Support PEEP Setting,-,Settings 
+4987,Apnea Ventilation Delay,-,Settings 
+4989,O2 Monitoring Mode,-,DeviceInfo 
+4990,O2 Calibration Mode,-,DeviceInfo 
+4993,Inspiratory Time Setting,-,Settings 
+4994,Expiratory Time Setting,-,Settings 
+4996,Alarm Percentage on Rise Time Setting,-,Settings 
+4997,Continuous Positive Airway Pressure (CPAP) Setting,-,Settings 
+4998,Ventilator Flow Setting,-,Settings 
+5000,Low Inspiratory Pressure Setting,-,Settings 
+5001,HFV Flow Setting,-,Settings 
+5002,HFV Respiration Rate Setting,-,Settings 
+5005,Mechanical Ventilation Activated Status,-,DeviceInfo 
+5006,SIMV Mode,-,DeviceInfo 
+5007,Mandatory Inspired Minute Volume Setting,-,Settings 
+5009,Infusion Pump Delivery Rate Setting,-,Settings 
+5011,Airway Respiration Rate Setting,-,Settings 
+5012,Trigger Flow/Volume Setting,-,Settings 
+5013,Apnea Alarm Delay,-,DeviceInfo 
+5014,HFV Amplitude Setting,-,Settings 
+5015,Volume Alarm Delay,-,Settings 
+5016,Pressure Increase Rate Setting,-,Settings 
+5017,Volume Warning Setting,-,Settings 
+5026,Airway Inspiratory Pressure Lower Alarm Limit,-,Settings 
+5028,Apnea Alarm Delay Setting,-,Settings 
+5029,Pressure Ramp Setting (ASB Ramp),-,Settings 
+5030,Applied Tidal Volume Setting,-,Settings 
+5031,Assist Pressure Sensitivity Setting,-,Settings 
+5032,High Inspiratory Pressure Setting,-,Settings 
+5033,Background Flow Setting,-,Settings 
+5035,Vaporizer Agent Concentration Setting,-,Settings 
+5036,Vaporizer Isoflurane Concentration Setting,-,Settings 
+5037,Vaporizer Enflurane Concentration Setting,-,Settings 
+5038,Vaporizer Halothane Concentration Setting,-,Settings 
+5039,Vaporizer Desflurane Concentration Setting,-,Settings 
+5040,Vaporizer Sevoflurane Concentration Setting,-,Settings 
+5041,Gas Measurement Sensor Position,-,DeviceInfo 
+5042,O2 Measurement Sensor Position,-,DeviceInfo 
+5044,Inspired Tidal Volume Setting,-,Settings 
+5045,Incubator/Warmer Temperature Setting,-,Settings 
+5046,Preset Period of UrVol Setting,-,Settings 
+5050,Low Time Setting,-,Settings 
+5051,High Time Setting,-,Settings 
+5052,Low Pressure Setting,-,Settings 
+5053,High Pressure Setting,-,Settings 
+5054,Volume Assist Level Setting,-,Settings 
+5055,CPAP Flow Assist Level Setting,-,Settings 
+5056,Preset Stimulation Current Setting,-,Settings 
+5057,Preset Stimulation Charge Setting,-,Settings 
+5058,Preset Stimulation Impulse Duration Setting,-,Settings 
+5059,NMT TOF Repetition Time,-,DeviceInfo 
+5060,Panting Limit Setting,-,Settings 
+5065,Airway Inspiratory Pressure Upper Alarm Limit,-,Settings 
+5066,Sigh Volume,-,VitalSigns 
+5069,Sustained Pressure Alarm Limit,-,Settings 
+5072,Intrathoracic Blood Volume (ITBV),-,VitalSigns 
+5073,Intrathoracic Blood Volume Index (ITBI),-,VitalSigns 
+5074,Extravascular Lung Water,-,VitalSigns 
+5075,Extravascular Lung Water Index,-,VitalSigns 
+5076,Global End Diastolic Volume,-,VitalSigns 
+5077,Global End Diastolic Volume Index,-,VitalSigns 
+5078,Cardiac Function Index,-,VitalSigns 
+5079,Mixed Venous O2 Saturation,-,VitalSigns 
+5080,Generic Term for the Transcutaneous Gases,-,VitalSigns 
+5083,Intrinsic PEEP,-,VitalSigns 
+5086,Positive Peak Inspiratory Pressure,-,VitalSigns 
+5087,Dead Space to Tidal Volume Ratio,-,VitalSigns 
+5088,Lung Volume Trapped,-,VitalSigns 
+5089,Lung Vital Capacity,-,VitalSigns 
+5090,Generic Lung Compliance,-,VitalSigns 
+5092,EEG Electromyography,-,VitalSigns 
+5093,Suppression Ratio,-,VitalSigns 
+5095,EEG Peak Power Frequency,-,VitalSigns 
+5101,End Tidal N2,-,VitalSigns 
+5102,Inspired N2,-,VitalSigns 
+5109,Generic Agent Wave,-,Waveforms 
+5110,End Tidal MAC Concentration,-,VitalSigns 
+5111,Left Ventricular Stroke Volume Index,-,VitalSigns 
+5112,Left Ventricular Stroke Volume,-,VitalSigns 
+5113,Right Ventricular Stroke Volume,-,VitalSigns 
+5114,Glasgow Coma Score,-,VitalSigns 
+5115,SubScore of the GCS - Eye Response,-,VitalSigns 
+5116,SubScore of the GCS - Motoric Response,-,VitalSigns 
+5117,SubScore of the GCS - Verbal Response,-,VitalSigns 
+5118,Head Circumference,-,VitalSigns 
+5119,pH in Arterial Blood,-,VitalSigns 
+5120,Arterial Blood Hemoglobin (HB),-,VitalSigns 
+5121,pH in Venous Blood,-,VitalSigns 
+5122,Urine Natrium,-,VitalSigns 
+5123,Natrium in Serum,-,VitalSigns 
+5124,pH in the Blood Plasma,-,VitalSigns 
+5125,Blood Natrium (Sodium),-,VitalSigns 
+5126,Kalium (Potassium),-,VitalSigns 
+5127,Generic Glucose Parameter,-,VitalSigns 
+5128,Partial CO2,-,VitalSigns 
+5129,Partial O2,-,VitalSigns 
+5130,Base Excess of Blood,-,VitalSigns 
+5131,Percent Alveolarvenous Shunt Qs/Qt,-,VitalSigns 
+5132,Extravascular Thermal Volume Index,-,VitalSigns 
+5133,VPB Rate,-,VitalSigns 
+5134,ECG Lead V1 Wave,-,Waveforms 
+5135,ECG Lead V2 Wave,-,Waveforms 
+5136,ECG Lead V3 Wave,-,Waveforms 
+5137,ECG Lead V4 Wave,-,Waveforms 
+5138,ECG Lead V5 Wave,-,Waveforms 
+5139,ECG Lead V6 Wave,-,Waveforms 
+5140,ECG Lead I Wave,-,Waveforms 
+5141,ECG Lead II Wave,-,Waveforms 
+5142,ECG Lead III Wave,-,Waveforms 
+5143,ECG Lead aVR Wave,-,Waveforms 
+5144,ECG Lead aVL Wave,-,Waveforms 
+5145,ECG Lead aVF Wave,-,Waveforms 
+5185,Mean Dominant Frequency (CH3),-,VitalSigns 
+5186,Mean Dominant Frequency (CH4),-,VitalSigns 
+5189,NMT DBS Count,-,VitalSigns 
+5191,Peak Power Frequency (CH3),-,VitalSigns 
+5192,Peak Power Frequency (CH4),-,VitalSigns 
+5497,Pump Infusion Mode,-,DeviceInfo 
+5507,Remaining Time Counter,-,OtherMeasuredData 
+5598,APRV Low Pressure Synchronisation Time Setting,-,Settings 
+5603,APRV High Pressure Synchronisation Time Setting,-,Settings 
+5614,Acoustic Respiration Rate,-,VitalSigns 
+5616,Regional O2 Saturation (rSO2 2),-,VitalSigns 
+5617,Regional O2 Saturation (rSO2 3),-,VitalSigns 
+5620,Regional O2 Saturation (rSO2 4),-,VitalSigns 
+5632,Regional O2 Saturation (rSO2 5),-,VitalSigns 
+5633,Regional O2 Saturation (rSO2 6),-,VitalSigns 
+5637,O2 Delivery Index (Thermodilution),-,VitalSigns 
+5659,Noninvasive Venous Hemoglobin (SpHbv),-,VitalSigns 
+5660,Noninvasive Arterial Hemoglobin (SpHba),-,VitalSigns 
+5661,Generic Pulse Rate,-,VitalSigns 
+5680,Corrected Total Hemoglobin,-,VitalSigns 
+5681,Corrected Arterial Total Hemoglobin,-,VitalSigns 
+5682,Corrected Venous Total Hemoglobin,-,VitalSigns 
+5694,Systemic Vascular Resistance (Thermodilution),-,VitalSigns 
+5695,Systemic Vascular Resistance Index (Thermodilution),-,VitalSigns 
+5707,Pulse Rate (Abdominal),-,VitalSigns 
+5719,ECG Lead V3R,-,VitalSigns 
+5720,ECG Lead V4R,-,VitalSigns 
+5721,ECG Lead V5R,-,VitalSigns 
+5763,Inspired NO,-,VitalSigns 
+5767,ECG Lead V9,-,VitalSigns 
+5774,ECG Lead V7,-,VitalSigns 
+5775,ECG Lead V8,-,VitalSigns 
+5807,Apnea Ventilation I:E Ratio Setting,unitless,Settings 
+5817,Assisted Respiration Rate,-,VitalSigns 
+5818,Correlation Coefficient Squared,-,VitalSigns 
+5837,ECG Lead V6R,-,VitalSigns 
+5873,Citrate Solution Concentration,-,Settings 
+5874,Calcium Solution Concentration,-,Settings 
+5886,Citrate Acid Concentration,-,Settings 
+5887,Citrate Load Setting,-,Settings 
+5949,Backup Respiration Rate Setting,-,Settings 
+5958,Inspired Expired Pressure Difference,-,VitalSigns 
+5959,Backup Inspired Expired Pressure Difference Setting,-,Settings 
+6124,Femoral Arterial Pressure Mean,-,VitalSigns 
+6125,Femoral Arterial Pressure Systolic,-,VitalSigns 
+6126,Femoral Arterial Pressure Diastolic,-,VitalSigns 
+6281,Tidal Volume Lower Alarm Limit,-,Settings 
+6283,Minute Volume Lower Alarm Limit,-,Settings 
+6322,ECG Lead V7 Wave,-,Waveforms 
+6323,ECG Lead V8 Wave,-,Waveforms 
+6324,ECG Lead V9 Wave,-,Waveforms 
+6326,Airway Aux Wave,-,Waveforms 
+6331,Fetal DECG Wave,-,Waveforms 
+6339,Patient BSA Formula,unitless,PatientInfo 
+6343,Platelets (Thrombocyte Count),-,VitalSigns 
+6388,Endotracheal Tube Type,-,DeviceInfo 
+6390,Minute Volume Upper Alarm Limit,-,Settings 
+6394,Pulse Rate from Plethysmogram,-,VitalSigns 
+6396,ECG Ectopic Status,-,VitalSigns 
+6399,ST Lead ES,-,VitalSigns 
+6400,ST Lead AS,-,VitalSigns 
+6401,ST Lead AI,-,VitalSigns 
+6402,ST Index,-,VitalSigns 
+6409,Pulse Pressure,-,VitalSigns 
+6410,Mean Transit Time (MTt),-,VitalSigns 
+6450,Alveolar Dead Space,-,VitalSigns 
+6451,Tympanic Temperature,-,VitalSigns 
+6452,Injectate Volume (CO),-,VitalSigns 
+6453,SpO2 (Telemetry),-,VitalSigns 
+6454,Pulse Rate (Telemetry),-,VitalSigns 
+6455,Intracranial Pressure ICP1 (Systolic),-,VitalSigns 
+6456,Intracranial Pressure ICP1 (Diastolic),-,VitalSigns 
+6457,Intracranial Pressure ICP1 (Mean),-,VitalSigns 
+6458,Intracranial Pressure ICP2 Systolic,-,VitalSigns 
+6459,Intracranial Pressure ICP2 Diastolic,-,VitalSigns 
+6460,Intracranial Pressure ICP2 Mean,-,VitalSigns 
+6461,Brachial Arterial Pressure (BA) Systolic,-,VitalSigns 
+6462,Brachial Arterial Pressure (BA) Diastolic,-,VitalSigns 
+6463,Brachial Arterial Pressure (BA) Mean,-,VitalSigns 
+6464,Vesical Temperature (Bladder),-,VitalSigns 
+6465,Cerebral Temperature,-,VitalSigns 
+6466,ST Level for Lead I,-,VitalSigns 
+6467,ST Level for Lead II,-,VitalSigns 
+6468,ST Level for Lead III,-,VitalSigns 
+6469,ST Level for Lead aVR,-,VitalSigns 
+6470,ST Level for Lead aVL,-,VitalSigns 
+6471,ST Level for Lead aVF,-,VitalSigns 
+6472,ST Level for Lead V1,-,VitalSigns 
+6473,ST Level for Lead V2,-,VitalSigns 
+6474,ST Level for Lead V3,-,VitalSigns 
+6475,ST Level for Lead V4,-,VitalSigns 
+6476,ST Level for Lead V5,-,VitalSigns 
+6477,ST Level for Lead V6,-,VitalSigns 
+6478,Prothrombin Time (International Normalized Ratio),-,VitalSigns 
+6479,PSV Tidal Volume,-,VitalSigns 
+6480,Negative Inspiratory Force Index,-,VitalSigns 
+6481,A-Line ARX Index,-,VitalSigns 
+6484,Impedance Cardiography (ICG) Wave,-,Waveforms 
+6485,Thoracic Fluid Content,-,VitalSigns 
+6486,Thoracic Fluid Content Index,-,VitalSigns 
+6487,Accelerated Cardiac Index,-,VitalSigns 
+6488,Heart Contractility Index,-,VitalSigns 
+6489,O2 Saturation (Left),-,VitalSigns 
+6490,O2 Saturation (Right),-,VitalSigns 
+6491,Pulse Pressure Variation,-,VitalSigns 
+6492,Downslope Time,-,VitalSigns 
+6493,Pulmonary Vascular Permeability Index,-,VitalSigns 
+6502,ART Pulse Rate,-,VitalSigns 
+6543,Umbilical Arterial Pressure Pulse Rate,-,VitalSigns 
+6544,Patient Visit Number,unitless,PatientInfo 
+6555,Patient Height at Entered Time,-,PatientInfo 
+6557,Patient Weight at Entered Time,-,PatientInfo 
+6567,Patient Body Surface Area (BSA),-,PatientInfo 
+6685,Inspired O2 Setting (FiO2),-,Settings 
+6702,Inspiratory Component of I:E Ratio Setting,-,Settings 
+6703,Expiratory Component of I:E Ratio Setting,-,Settings 
+6735,Lung Elastance,-,VitalSigns 
+6739,Backup Inspiratory Time Setting,-,Settings 
+6744,Pressure Support Level Above Phigh,-,Settings 
+6746,Total Respiration Duration Setting,-,Settings 
+6772,Heater Power,-,DeviceInfo 
+6861,Capillary Refill Time,-,VitalSigns 
+6935,Estimated Patient Circuit Leakage,-,OtherMeasuredData 
+6936,Estimated Ventilation Total Leakage,-,OtherMeasuredData 
+6967,Ventilation Mode Additional Information,-,DeviceInfo 
+6995,Backup Plateau Time Setting,-,Settings 
+7000,ECG Lead V3R Wave,-,Waveforms 
+7001,ECG Lead V4R Wave,-,Waveforms 
+7002,ECG Lead V5R Wave,-,Waveforms 
+7003,ECG Lead V6R Wave,-,Waveforms 
+7019,Signal Quality Index (BIS),-,OtherMeasuredData 
+7106,Continuous NIBP Systolic,-,VitalSigns 
+7107,Continuous NIBP Diastolic,-,VitalSigns 
+7108,Continuous NIBP Mean,-,VitalSigns 
+7118,Next Intervention Time,-,OtherMeasuredData 
+7315,Total Power (CH3),-,VitalSigns 
+7316,Total Power (CH4),-,VitalSigns 
+7335,Total Power (Left),-,VitalSigns 
+7336,Total Power (Right),-,VitalSigns 
+7414,PCV I:E Ratio Setting,unitless,Settings 
+7434,Inspiratory CO2 (FiCO2),-,VitalSigns 
+7532,End Tidal NO2,-,VitalSigns 
+7535,Fresh Gas Total Flow,-,OtherMeasuredData 
+7545,Bolus Volume Setting,-,Settings 
+7557,Generic NIBP Pressure,-,VitalSigns 
+7587,Endotracheal Tube Diameter,-,DeviceInfo 
+7640,Mandatory Respiration Rate,-,VitalSigns 
+7641,Mandatory Minute Volume,-,VitalSigns 
+7642,Mandatory Tidal Volume,-,VitalSigns 
+7644,N2O Consumption,-,OtherMeasuredData 
+7765,Device Power Up Time,s,DeviceInfo 
+7768,O2 Consumption,-,VitalSigns 
+7770,Air Consumption,-,VitalSigns 
+7773,Arterial Blood Pressure (ABP),-,VitalSigns 
+7777,ABP Pulse Rate,-,VitalSigns 
+7797,Signal Noise Ratio (CCO),-,VitalSigns 
+7803,Spontaneous Airway Respiration Rate,-,VitalSigns 
+7804,Synchronized Respiration Rate,-,VitalSigns 
+7805,Mechanical Respiration Rate,-,VitalSigns 
+7806,Daily Urine Output,-,VitalSigns 
+7809,Activated Partial Thromboplastin Time Ratio,-,VitalSigns 
+7810,Global Ejection Fraction,-,VitalSigns 
+7811,Generic CO2 Parameter,-,VitalSigns 
+7823,Central Venous O2 Saturation (ScvO2),-,VitalSigns 
+7858,Suppression Ratio (BIS),-,VitalSigns 
+7865,Right Ventricular Stroke Work Index,-,VitalSigns 
+7870,Base Excess of Extracellular Fluid,-,VitalSigns 
+7878,Rise Time Setting,-,Settings 
+7879,Time Duration at Low Pressure (Tlow),-,VitalSigns 
+7880,Time Duration at High Pressure (Thigh),-,VitalSigns 
+7904,Spontaneous Tidal Volume,-,VitalSigns 
+7905,Cardiac Troponin l,-,VitalSigns 
+7906,Cardiopulmonary Bypass Status,-,VitalSigns 
+7907,Cardiac Brain Natriuretic Peptide,-,VitalSigns 
+7908,Mean Dominant Frequency,-,VitalSigns 
+7983,Filtration Current Volume,-,VitalSigns 
+7986,Calcium Flow Rate Setting,-,Settings 
+7987,Calcium Compensation Setting,-,Settings 
+8189,Cerebral State Index (CSI),-,VitalSigns 
+8201,EEG Amplitude,-,VitalSigns 
+8339,Patient Middle Names,unitless,PatientInfo 
+8350,Ao Pulse Rate,-,VitalSigns 
+8351,PAP Pulse Rate,-,VitalSigns 
+8352,CVP Pulse Rate,-,VitalSigns 
+8353,RAP Pulse Rate,-,VitalSigns 
+8354,LAP Pulse Rate,-,VitalSigns 
+8355,ICP Pulse Rate,-,VitalSigns 
+8356,Umbilical Venous Pressure Pulse Rate,-,VitalSigns 
+8357,FAP Pulse Rate,-,VitalSigns 
+8358,BAP Pulse Rate,-,VitalSigns 
+8359,IC1 Pulse Rate,-,VitalSigns 
+8360,Intracranial Pressure ICP2 Pulse Rate,-,VitalSigns 
+8361,Pulse Rate (P1),-,VitalSigns 
+8362,Pulse Rate (P2),-,VitalSigns 
+8363,Pulse Rate (P3),-,VitalSigns 
+8364,Pulse Rate (P4),-,VitalSigns 
+8365,Pulse Rate from Plethysmogram (Left),-,VitalSigns 
+8367,Pleth Wave (Right),-,Waveforms 
+8368,Pleth Wave (Left),-,Waveforms 
+8369,Calculated SO2,-,VitalSigns 
+8370,Airway Respiration Rate (Ohmeda),-,VitalSigns 
+8371,Airway Respiration Rate Setting (Ohmeda),-,Settings 
+8372,Fresh Gas O2 Concentration,-,OtherMeasuredData 
+8373,Manually entered FIO2 or Flow,-,VitalSigns 
+8375,Fresh Gas O2 Flow Setting,-,Settings 
+8376,Airway Pressure Numeric Value (Ohmeda),-,VitalSigns 
+8377,Inspiratory Peak Flow,-,VitalSigns 
+8378,Maximum Pressure During Breathing Cycle,-,VitalSigns 
+8379,Peak Pressure,-,VitalSigns 
+8380,Peak Inspiratory Flow Setting,-,Settings 
+8381,Airway Maximum Pressure Setting,-,Settings 
+8382,Peak Inspiratory Pressure Setting,-,Settings 
+8383,Setting: Inspiratory Pressure (Ohmeda),-,Settings 
+8384,Mean Airway Pressure (Ohmeda),-,VitalSigns 
+8385,EEG Wave (Left),-,Waveforms 
+8386,EEG Wave (Right),-,Waveforms 
+8387,% of Power in the Delta Band - 1st EEG,-,VitalSigns 
+8388,% of Power in the Delta Band - 2nd EEG,-,VitalSigns 
+8389,Percent Delta - Left Side,-,VitalSigns 
+8390,Percent Delta - Right Side,-,VitalSigns 
+8391,% of Power in the Theta Band (1st EEG),-,VitalSigns 
+8392,% of Power in the Theta Band (2nd EEG),-,VitalSigns 
+8393,Percent Theta - Left Side,-,VitalSigns 
+8394,Percent Theta - Right Side,-,VitalSigns 
+8395,Generic Calculation Constant,-,VitalSigns 
+8396,Pressure Ventilation Control Pressure,-,VitalSigns 
+8397,Right Heart Ejection Fraction,-,VitalSigns 
+8398,White Blood Count (Leucocyte Count),-,VitalSigns 
+8399,Red Blood Count (Erithrocyte Count),-,VitalSigns 
+8400,Mean Corpuscular Volume,-,VitalSigns 
+8401,Corpuscular Mean Hemoglobin Content,-,VitalSigns 
+8402,Ferrum,-,VitalSigns 
+8403,Fetal Hemoglobin,-,VitalSigns 
+8404,MetHemoglobin,-,VitalSigns 
+8405,Airway Volume Wave,-,Waveforms 
+8406,Expiratory Peak Flow,-,VitalSigns 
+8407,Expiratory Peak Flow,-,VitalSigns 
+8408,The V stands for Volume,-,VitalSigns 
+8409,The R stands for Rate,-,VitalSigns 
+8410,Adjusted PaCO2 (at Patient Temperature),-,VitalSigns 
+8411,Incubator Heating Power,-,OtherMeasuredData 
+8412,Actual Patient Age,-,PatientInfo 
+8413,The P stands for Pressure,-,VitalSigns 
+8414,PCV Apnea Control Pressure Setting,-,Settings 
+8415,Fresh Gas Air Flow Setting,-,Settings 
+8416,PEEP/CPAP Lower Alarm Limit,-,Settings 
+8417,Tidal Volume Upper Alarm Limit,-,Settings 
+8418,T-Tre Temperature difference between Temp and Trect,-,VitalSigns 
+8419,T-Tbl Temperature difference between Temp and Tblood,-,VitalSigns 
+8420,T-Tco Temperature difference between Temp and Tcore,-,VitalSigns 
+8421,T-Tsk Temperature difference between Temp and Tskin,-,VitalSigns 
+8422,T-Tes Temperature difference between Temp and Tesoph,-,VitalSigns 
+8423,T-Tna Temperature difference between Temp and Tnaso,-,VitalSigns 
+8424,T-Tar Temperature difference between Temp and Tart,-,VitalSigns 
+8425,T-Tve Temperature difference between Temp and Tven,-,VitalSigns 
+8426,T-Taw Temperature difference between Temp and Tairwy,-,VitalSigns 
+8427,Tre-T Temperature difference between Trect and Temp,-,VitalSigns 
+8428,Tre-bl Temperature difference between Trect and Tblood,-,VitalSigns 
+8429,Tre-sk Temperature difference between Trect and Tskin,-,VitalSigns 
+8430,Tre-aw Temperature difference between Trect and Tairwy,-,VitalSigns 
+8431,Temperature difference between Tblood and Temp,-,VitalSigns 
+8433,Tbl-aw Temperature difference between Tblood and Tairwy,-,VitalSigns 
+8434,Tco-T Temperature difference between Tcore and Temp,-,VitalSigns 
+8435,Tco-re Temperature difference between Tcore and Trect,-,VitalSigns 
+8436,Tco-bl Temperature difference between Tcore and Tblood,-,VitalSigns 
+8437,Tco-sk Temperature difference between Tcore and Tskin,-,VitalSigns 
+8438,Tco-es Temperature difference between Tcore and Tesoph,-,VitalSigns 
+8439,Tco-na Temperature difference between Tcore and Tnaso,-,VitalSigns 
+8440,Tco-aw Temperature difference between Tcore and Tairwy,-,VitalSigns 
+8441,Tsk-T Temperature difference between Tskin and Temp,-,VitalSigns 
+8442,Tsk-bl Temperature difference between Tskin and Tblood,-,VitalSigns 
+8443,Tsk-aw Temperature difference between Tskin and Tairwy,-,VitalSigns 
+8444,Tes-T Temperature difference between Tesoph and Temp,-,VitalSigns 
+8445,Tes-re Temperature difference between Tesoph and Trect,-,VitalSigns 
+8446,Tes-bl Temperature difference between Tesoph and Tblood,-,VitalSigns 
+8447,Tes-sk Temperature difference between Tesoph and Tskin,-,VitalSigns 
+8448,Tes-na Temperature difference between Tesoph and Tnaso,-,VitalSigns 
+8449,Tes-aw Temperature difference between Tesoph and Tairwy,-,VitalSigns 
+8450,Tna-T Temperature difference between Tnaso and Temp,-,VitalSigns 
+8451,Tna-re Temperature difference between Tnaso and Trect,-,VitalSigns 
+8452,Tna-bl Temperature difference between Tnaso and Tblood,-,VitalSigns 
+8453,Tna-sk Temperature difference between Tnaso and Tskin,-,VitalSigns 
+8454,Tna-aw Temperature difference between Tnaso and Tairwy,-,VitalSigns 
+8455,Tar-T Temperature difference between Tart and Temp,-,VitalSigns 
+8456,Tar-re Temperature difference between Tart and Trect,-,VitalSigns 
+8457,Tar-bl Temperature difference between Tart and Tblood,-,VitalSigns 
+8458,Tar-co Temperature difference between Tart and Tcore,-,VitalSigns 
+8459,Tar-sk Temperature difference between Tart and Tskin,-,VitalSigns 
+8460,Tar-es Temperature difference between Tart and Tesoph,-,VitalSigns 
+8461,Tar-na Temperature difference between Tart and Tnaso,-,VitalSigns 
+8462,Tar-aw Temperature difference between Tart and Tairwy,-,VitalSigns 
+8463,Tve-T Temperature difference between Tven and Temp,-,VitalSigns 
+8464,Tve-re Temperature difference between Tven and Trect,-,VitalSigns 
+8465,Tve-bl Temperature difference between Tven and Tblood,-,VitalSigns 
+8466,Tve-co Temperature difference between Tven and Tcore,-,VitalSigns 
+8467,Tve-sk Temperature difference between Tven and Tskin,-,VitalSigns 
+8468,Tve-es Temperature difference between Tven and Tesoph,-,VitalSigns 
+8469,Tve-na Temperature difference between Tven and Tnaso,-,VitalSigns 
+8470,MAC Concentration (Awake),-,VitalSigns 
+8471,Tve-ar Temperature difference between Tven and Tart,-,VitalSigns 
+8472,Tve-aw Temperature difference between Tven and Tairwy,-,VitalSigns 
+8473,Taw-T Temperature difference between Tairwy and Temp,-,VitalSigns 
+8474,Taw-re Temperature difference between Tairwy and Trect,-,VitalSigns 
+8475,Taw-bl Temperature difference between Tairwy and Tblood,-,VitalSigns 
+8476,Taw-co Temperature difference between Tairwy and Tcore,-,VitalSigns 
+8477,Taw-sk Temperature difference between Tairwy and Tskin,-,VitalSigns 
+8478,Taw-es Temperature difference between Tairwy and Tesoph,-,VitalSigns 
+8479,Taw-na Temperature difference between Tairwy and Tnaso,-,VitalSigns 
+8480,Taw-ar Temperature difference between Tairwy and Tart,-,VitalSigns 
+8481,Taw-ve Temperature difference between Tairwy and Tven,-,VitalSigns 
+8483,Generic Agent 1 Wave,-,Waveforms 
+8484,End Tidal Generic Agent 1,-,VitalSigns 
+8485,Inspired Generic Agent 1,-,VitalSigns 
+8486,Generic Agent 2 Wave,-,Waveforms 
+8487,End Tidal Generic Agent 2,-,VitalSigns 
+8488,Inspired Generic Agent 2,-,VitalSigns 
+8489,Adjusted Arterial Blood pH Value,-,VitalSigns 
+8490,Adjusted Venous Blood pH Value,-,VitalSigns 
+8491,Adjusted PvCO2 (at Patient Temperature),-,VitalSigns 
+8492,Adjusted PvO2 (at Patient Temperature),-,VitalSigns 
+8493,Generic Calculation Constant,-,VitalSigns 
+8501,ECG Lead V Wave,-,Waveforms 
+8502,ECG Lead MCL Wave,-,Waveforms 
+8503,ECG Lead MCL1 Wave,-,Waveforms 
+8510,MAC Concentration,-,VitalSigns 
+8511,Pleth Wave (Telemetry),-,Waveforms 
+8513,NIBP Systolic (Telemetry),-,VitalSigns 
+8514,NIBP Diastolic (Telemetry),-,VitalSigns 
+8515,NIBP Mean (Telemetry),-,VitalSigns 
+8517,Generic Pressure 1 (P1) Systolic,-,VitalSigns 
+8518,Generic Pressure 1 (P1) Diastolic,-,VitalSigns 
+8519,Generic Pressure 1 (P1) Mean,-,VitalSigns 
+8521,Generic Pressure 2 (P2) Systolic,-,VitalSigns 
+8522,Generic Pressure 2 (P2) Diastolic,-,VitalSigns 
+8523,Generic Pressure 2 (P2) Mean,-,VitalSigns 
+8525,Generic Pressure 3 (P3) Systolic,-,VitalSigns 
+8526,Generic Pressure 3 (P3) Diastolic,-,VitalSigns 
+8527,Generic Pressure 3 (P3) Mean,-,VitalSigns 
+8529,Generic Pressure 4 (P4) Systolic,-,VitalSigns 
+8530,Generic Pressure 4 (P4) Diastolic,-,VitalSigns 
+8531,Generic Pressure 4 (P4) Mean,-,VitalSigns 
+8535,Incubator Humidity,-,OtherMeasuredData 
+8536,Predictive Oral Temperature,-,VitalSigns 
+8537,Predictive Rectal Temperature,-,VitalSigns 
+8538,Predictive Axillary Temperature,-,VitalSigns 
+8539,Perfusion (Telemetry),-,VitalSigns 
+8541,Right to Left Heart Shunt,-,VitalSigns 
+8542,Adjusted PcO2 (at Patient Temperature),-,VitalSigns 
+8543,Adjusted Arterial PaO2 (at Patient Temperature),-,VitalSigns 
+8544,Pulse Rate from Plethysmogram (Right),-,VitalSigns 
+8549,Patient O2 Consumption per Body Surface,-,VitalSigns 
+8550,Patient O2 Consumption per Body Weight,-,VitalSigns 
+8560,Ideal Patient Weight,-,PatientInfo 
+8562,End Flow Setting,-,Settings 
+8564,PSV Backup Delay Setting,-,Settings 
+8640,Technical Alarm Internal Source ID,unitless,Alarms 
+8641,Technical Alarm Source Type,unitless,Alarms 
+8642,Device Technical Alarm,unitless,Alarms 
+8643,Patient Alarm Internal Source ID,unitless,Alarms 
+8644,Patient Alarm Source Type,unitless,Alarms 
+8645,Patient Alarm,unitless,Alarms 
+8656,Accoustic Respiration Rate Wave,-,Waveforms 
+8703,Blood Temperature Wave,-,Waveforms 
+8714,Non-specific Pressure 1 Wave,-,Waveforms 
+8715,Generic Invasive Blood Pressure P1,-,VitalSigns 
+8716,Generic Invasive Blood Pressure P1 Systolic,-,VitalSigns 
+8717,Generic Invasive Blood Pressure P1 Diastolic,-,VitalSigns 
+8718,Generic Invasive Blood Pressure P1 Mean,-,VitalSigns 
+8719,Non-specific Pressure 2 Wave,-,Waveforms 
+8720,Generic Invasive Blood Pressure P2,-,VitalSigns 
+8721,Generic Invasive Blood Pressure P2 Systolic,-,VitalSigns 
+8722,Generic Invasive Blood Pressure P2 Diastolic,-,VitalSigns 
+8723,Generic Invasive Blood Pressure P2 Mean,-,VitalSigns 
+8724,Non-specific Pressure 3 Wave,-,Waveforms 
+8725,Generic Invasive Blood Pressure P3,-,VitalSigns 
+8726,Generic Invasive Blood Pressure P3 Systolic,-,VitalSigns 
+8727,Generic Invasive Blood Pressure P3 Diastolic,-,VitalSigns 
+8728,Generic Invasive Blood Pressure P3 Mean,-,VitalSigns 
+8729,Non-specific Pressure 4 Wave,-,Waveforms 
+8730,Generic Invasive Blood Pressure P4,-,VitalSigns 
+8731,Generic Invasive Blood Pressure P4 Systolic,-,VitalSigns 
+8732,Generic Invasive Blood Pressure P4 Diastolic,-,VitalSigns 
+8733,Generic Invasive Blood Pressure P4 Mean,-,VitalSigns 
+8734,Non-specific Pressure 5 Wave,-,Waveforms 
+8735,Generic Invasive Blood Pressure P5,-,VitalSigns 
+8736,Generic Invasive Blood Pressure P5 Systolic,-,VitalSigns 
+8737,Generic Invasive Blood Pressure P5 Diastolic,-,VitalSigns 
+8738,Generic Invasive Blood Pressure P5 Mean,-,VitalSigns 
+8739,Non-specific Pressure 6 Wave,-,Waveforms 
+8740,Generic Invasive Blood Pressure P6,-,VitalSigns 
+8741,Generic Invasive Blood Pressure P6 Systolic,-,VitalSigns 
+8742,Generic Invasive Blood Pressure P6 Diastolic,-,VitalSigns 
+8743,Generic Invasive Blood Pressure P6 Mean,-,VitalSigns 
+8744,Non-specific Pressure 7 Wave,-,Waveforms 
+8745,Generic Invasive Blood Pressure P7,-,VitalSigns 
+8746,Generic Invasive Blood Pressure P7 Systolic,-,VitalSigns 
+8747,Generic Invasive Blood Pressure P7 Diastolic,-,VitalSigns 
+8748,Generic Invasive Blood Pressure P7 Mean,-,VitalSigns 
+8749,Non-specific Pressure 8 Wave,-,Waveforms 
+8750,Generic Invasive Blood Pressure P8,-,VitalSigns 
+8751,Generic Invasive Blood Pressure P8 Systolic,-,VitalSigns 
+8752,Generic Invasive Blood Pressure P8 Diastolic,-,VitalSigns 
+8753,Generic Invasive Blood Pressure P8 Mean,-,VitalSigns 
+8754,Intra-Uterine Pressure (IUP) Wave,-,Waveforms 
+8755,Intra-Uterine Pressure,-,VitalSigns 
+8756,Intra-Uterine Pressure Systolic,-,VitalSigns 
+8757,Intra-Uterine Pressure Diastolic,-,VitalSigns 
+8758,Intra-Uterine Pressure Mean,-,VitalSigns 
+8760,Unspecified Blood Pressure,-,VitalSigns 
+8761,Unspecified Blood Pressure Systolic,-,VitalSigns 
+8762,Unspecified Blood Pressure Diastolic,-,VitalSigns 
+8763,Unspecified Blood Pressure Mean,-,VitalSigns 
+8788,Airway Flow Wave,-,Waveforms 
+8789,Auxiliary Wave/Parameter,-,VitalSigns 
+8790,Global Ejection Fraction (2),-,VitalSigns 
+8791,Pulmonary Vascular Permeability Index (2),-,VitalSigns 
+8793,Pressure Drop,-,OtherMeasuredData 
+8803,Replacement Pre-delivered Rate Setting,-,Settings 
+8804,Replacement Post-delivered Rate Setting,-,Settings 
+8805,Pre-blood Flow Rate Setting,-,Settings 
+8806,Patient Weight Balance Setting,-,Settings 
+8808,Anticoagulant Bolus Interval Setting,-,Settings 
+8809,Anticoagulant Infusion Rate Setting,-,Settings 
+8810,Ultrafiltration Ratio Setting,-,Settings 
+8811,Therapy Elapsed Time,-,OtherMeasuredData 
+8812,Airway Volume,-,VitalSigns 
+8813,Processed Cumulated Blood Volume,-,VitalSigns 
+8814,Replacement Pre-delivered Cumulated Volume,-,VitalSigns 
+8815,Replacement Post-delivered Cumulated Volume,-,VitalSigns 
+8816,Pre-blood Cumulated Volume,-,VitalSigns 
+8835,Syringe Speed,-,OtherMeasuredData 
+8851,Maximum Volume Gain Setting,-,Settings 
+8853,Patient Fluid Balance,-,VitalSigns 
+8857,Arterial Blood Pressure (ABP) Wave,-,Waveforms 
+8858,Arterial Blood Pressure (ART) Wave,-,Waveforms 
+8859,Pulmonary Arterial Pressure (PAP) Wave,-,Waveforms 
+8860,Central Venous Pressure (CVP) Wave,-,Waveforms 
+8861,Right Atrial Pressure (RAP) Wave,-,Waveforms 
+8862,Left Atrial Pressure (LAP) Wave,-,Waveforms 
+8863,Intra-cranial Pressure (ICP) Wave,-,Waveforms 
+8864,Umbilical Arterial Pressure (UAP) Wave,-,Waveforms 
+8865,Umbilical Venous Pressure (UVP) Wave,-,Waveforms 
+8866,Airway CO2 Level Waveform,-,Waveforms 
+8867,Airway O2 Wave,-,Waveforms 
+8868,Airway N2 Wave,-,Waveforms 
+8869,Generic Agent Wave (2nd),-,Waveforms 
+8870,Impedance Respiration Wave,-,Waveforms 
+8871,Brachial Arterial Pressure (BAP) Wave,-,Waveforms 
+8872,Intracranial Pressure 1 (IC1) Wave,-,Waveforms 
+8873,Intracranial Pressure 2 (IC2) Wave,-,Waveforms 
+8874,Femoral Arterial Pressure (FAP) Wave,-,Waveforms 
+8875,Vector ECG Wave,-,Waveforms 
+8889,Transcutaneous Heater Power,-,OtherMeasuredData 
+8939,BIS Standard Deviation,-,VitalSigns 
+8940,EMG Standard Deviation (BIS),-,VitalSigns 
+8941,Asymmetric Index,-,VitalSigns 
+9037,O2 Consumption Index Estimate,-,VitalSigns 
+9110,Aortic Blood Pressure (Ao),-,VitalSigns 
+9111,Umbilical Arterial Pressure (UAP),-,VitalSigns 
+9112,Umbilical Venous Pressure (UVP),-,VitalSigns 
+9154,Humidifier Activation Status,-,DeviceInfo 
+9155,Nebulizer Time Setting,-,Settings 
+9165,Edi Diaphragm Electrical Activity Waveform,-,Waveforms 
+9166,Peak Diaphragm Electrical Activity (Edi),-,VitalSigns 
+9167,Minimum Diaphragm Electrical Activity (Edi),-,VitalSigns 
+9168,% Edi Trigger In NAVA,-,VitalSigns 
+9169,% Edi Cycle Off In NAVA,-,VitalSigns 
+9170,NAVA Level Setting,-,Settings 
+9171,Edi Trigger Setting,-,Settings 
+9196,Patient Body Mass Index (BMI),-,PatientInfo 
+9270,Maximum Positive Auxiliary Pressure,-,VitalSigns 
+9271,Mean Positive Auxiliary Pressure,-,VitalSigns 
+9272,Minimum Positive Auxiliary Pressure,-,VitalSigns 
+9286,Patient CO2 Production Indexed By Body Surface,-,VitalSigns 
+9287,Patient CO2 Production Indexed By Body Weight,-,VitalSigns 
+9288,Tidal Volume Indexed By Body Weight,-,VitalSigns 
+9314,Functional Residual Capacity,-,VitalSigns 
+9315,Corrected QT Interval (QTc),-,VitalSigns 
+9317,Airway N2 Concentration,-,VitalSigns 
+9318,Airway Agent Concentration,-,VitalSigns 
+9321,Respiration Rate (Spirometry),-,VitalSigns 
+9323,QT Heart Rate (QT-HR),-,VitalSigns 
+9324,Delta QTc,-,VitalSigns 
+9329,Humidification Type Setting,-,Settings 
+9336,Normalized Rapid Shallow Breathing Index,-,VitalSigns 
+9337,Percent of Spontaneous Inspiratory Time,-,VitalSigns 
+9408,Energy Balance Calculated by Metabolics,-,VitalSigns 
+9437,Alveolar Volume,-,VitalSigns 
+9438,Apparatus Dead Space,-,VitalSigns 
+9439,Pleth (Pre-Ductal),-,VitalSigns 
+9440,Pleth (Post-Ductal),-,VitalSigns 
+9441,Relative Perfusion (Pre-Ductal),-,VitalSigns 
+9442,Relative Perfusion (Post-Ductal),-,VitalSigns 
+9444,Cardioplegia Main Pump Time of Current Plegia Session,-,VitalSigns 
+9445,Cardioplegia Main Pump Time Since Stop of Plegia Session,-,VitalSigns 
+9446,Cardioplegia Main Pump Total Plegia Time,-,VitalSigns 
+9447,Cardioplegia Slave Pump Time Since Start of Current Plegia Session,-,VitalSigns 
+9448,Cardioplegia Slave Pump Time Since Stop of Plegia Session,-,VitalSigns 
+9449,Cardioplegia Slave Pump Total Plegia Time,-,VitalSigns 
+9453,PAV-based Lung Compliance,-,VitalSigns 
+9454,PAV-based Patient Resistance,-,VitalSigns 
+9455,PAV-based Total Resistance Estimate,-,VitalSigns 
+9456,PAV-based Lung Elastance,-,VitalSigns 
+9467,Backup Inspiratory Pressure Setting,-,Settings 
+9476,Percent of Leakage,-,OtherMeasuredData 
+9485,Maximum Inspiratory Time Setting,-,Settings 
+9585,Plateau Time,-,VitalSigns 
+9586,QT Baseline,-,VitalSigns 
+9587,QT Heart Rate Baseline,-,VitalSigns 
+9588,High Density Lipoprotein,-,VitalSigns 
+9589,Low Density Lipoprotein,-,VitalSigns 
+9590,C-reactive Protein,-,VitalSigns 
+9591,Urine Hemoglobin,-,VitalSigns 
+9595,Noninvasive Total Hemoglobin (SpHb),-,VitalSigns 
+9596,Noninvasive Oxygen Content (SpOC),-,VitalSigns 
+9597,Noninvasive Carboxyhemoglobin (SpCO),-,VitalSigns 
+9598,Noninvasive Methemoglobin (SpMet),-,VitalSigns 
+9600,Pleth Variability Index (PVI),-,VitalSigns 
+9603,Regional O2 Saturation (rSO2),-,VitalSigns 
+9605,rSO2 Area Under Curve (AUC),-,VitalSigns 
+9610,Generic O2 Saturation (3),-,VitalSigns 
+9611,Generic O2 Saturation (4),-,VitalSigns 
+9612,Tissue O2 Saturation (StO2),-,VitalSigns 
+9613,Nitrogen Balance (NsLoss),-,VitalSigns 
+52523,Inspired O2 Concentration,%,VitalSigns 
+52527,Inspired O2 Partial Pressure,mmHg,VitalSigns 

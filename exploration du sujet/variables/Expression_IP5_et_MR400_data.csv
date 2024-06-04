@@ -1,0 +1,26 @@
+ID,Label,Unit,Group
+1,Heart Rate,1/min,VitalSigns 
+2,NIBP Systolic,-,VitalSigns 
+3,NIBP Diastolic,-,VitalSigns 
+4,NIBP Mean,-,VitalSigns 
+8,INVP1 Systolic,-,VitalSigns 
+9,INVP1 Diastolic,-,VitalSigns 
+10,INVP1 Mean,-,VitalSigns 
+11,INVP2 Systolic,-,VitalSigns 
+12,INVP2 Diastolic,-,VitalSigns 
+13,INVP2 Mean,-,VitalSigns 
+14,SpO2,%,VitalSigns 
+20,End Tidal CO2 (EtCO2),-,VitalSigns 
+21,Inspired CO2 (InCO2),-,VitalSigns 
+22,Respiration Rate,1/min,VitalSigns 
+168,Device ID,unitless,DeviceInfo 
+419,Inspired O2 (FiO2),%,VitalSigns 
+426,Inspired N2O,%,VitalSigns 
+427,End Tidal N2O,%,VitalSigns 
+1929,Patient ID,unitless,PatientInfo 
+2255,Device Date/Time,unitless,DeviceInfo 
+2889,Inspired Agent Concentration,%,VitalSigns 
+2890,Expired Agent Concentration,%,VitalSigns 
+2907,Patient Temperature,-,VitalSigns 
+4008,Inspiratory 2nd Agent,%,VitalSigns 
+4009,Expiratory 2nd Agent,%,VitalSigns 

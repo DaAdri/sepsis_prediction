@@ -1,0 +1,87 @@
+ID,Label,Unit,Group
+20,End Tidal CO2 (EtCO2),-,VitalSigns 
+22,Respiration Rate,-,VitalSigns 
+544,Minimum Respiration Rate Threshold Setting,-,Settings 
+584,Ventilation Mode,unitless,DeviceInfo 
+635,Inspired O2 (FiO2),-,VitalSigns 
+754,Device Name,unitless,DeviceInfo 
+784,Inspiration Time Percent Setting,-,Settings 
+955,Battery Running Alarm,unitless,Alarms 
+1187,Low Inspired Tidal Volume Alarm,unitless,Alarms 
+1188,Low Expired Tidal Volume Alarm,unitless,Alarms 
+1189,Positive End Expiratory Pressure (PEEP),-,VitalSigns 
+1228,High Inspired Tidal Volume Alarm,unitless,Alarms 
+1321,Tidal Volume Setting,-,Settings 
+1324,Sigh Interval Setting,-,Settings 
+1327,Sigh Pressure Limit Setting,-,Settings 
+1328,Apnea Tidal Volume Setting,-,Settings 
+1329,Apnea Respiration Rate Setting,-,Settings 
+1370,Battery Low Alarm,unitless,Alarms 
+1383,Inspiratory Flow Trigger Setting,-,Settings 
+1391,Apnea Time Setting,-,Settings 
+1415,Mean Airway Pressure,-,VitalSigns 
+1538,O2 Sensor Alarm,unitless,Alarms 
+1657,Expiratory Trigger Level Setting,-,Settings 
+1891,Device Power Supply Status,unitless,DeviceInfo 
+1913,Device Serial Number,unitless,DeviceInfo 
+2088,SIMV Respiration Rate Setting,-,Settings 
+2092,Inspired Minute Volume,-,VitalSigns 
+2102,Inspiratory Time Setting,-,Settings 
+2104,Positive End Expiratory Pressure (PEEP) Setting,-,Settings 
+2110,Inspired O2 (FiO2) Setting,-,Settings 
+2120,Battery Alarm,unitless,Alarms 
+2324,Inspired Tidal Volume,-,VitalSigns 
+2325,Expired Tidal Volume,-,VitalSigns 
+2326,Expired Minute Volume,-,VitalSigns 
+2445,Patient Rebreathing Alarm,unitless,Alarms 
+2546,Low Expired Minute Volume Alarm,unitless,Alarms 
+2568,Airway Peak Pressure Alarm,unitless,Alarms 
+2573,Ventilator Control Mode,unitless,DeviceInfo 
+2582,Target Respiration Rate,-,Settings 
+2583,I:E Ratio Setting,unitless,Settings 
+2590,Generic Device Alarm,unitless,Alarms 
+2759,Support Pressure Setting,-,Settings 
+2879,Device Software Revision,unitless,DeviceInfo 
+2960,Tidal Volume Target,-,Settings 
+2964,I:E Ratio,unitless,VitalSigns 
+2968,Plateau Airway Pressure,-,VitalSigns 
+2976,Patient Disconnect Alarm,unitless,Alarms 
+3853,Patient Type,unitless,PatientInfo 
+3858,Volume Not Achieved Alarm,unitless,Alarms 
+3961,Plateau Time Setting,-,Settings 
+4004,Breathing System Leakage,-,OtherMeasuredData 
+4367,Respiration Rate Setting,-,Settings 
+4371,Sigh Tidal Volume Setting,-,Settings 
+4391,Apnea Ventilation Alarm,unitless,Alarms 
+4992,Maximum Inspired Pressure Setting,-,Settings 
+5010,Inspiratory Pressure Setting,-,Settings 
+5359,Airway Peak Flow Setting,-,Settings 
+5712,Low EtCO2 Alarm,unitless,Alarms 
+5713,High EtCO2 Alarm,unitless,Alarms 
+5946,Waveform Shape Setting,unitless,Settings 
+5961,PEEP/CPAP Alarm,unitless,Alarms 
+6153,ET Tube Blocked Alarm,unitless,Alarms 
+6164,General Alarm Code,unitless,Alarms 
+6296,O2 Supply Alarm,unitless,Alarms 
+6376,High Leak Alarm,unitless,Alarms 
+6379,Ratio of Inspiration Time to Total Breath Cycle,-,VitalSigns 
+6891,Expiratory Flow Sensor Failure Alarm,unitless,Alarms 
+7033,Patient Demand High Alarm,unitless,Alarms 
+7038,High Inspired Minute Volume Alarm,unitless,Alarms 
+7039,Low Inspired Minute Volume Alarm,unitless,Alarms 
+8012,Plateau Airway Pressure Alarm,unitless,Alarms 
+8301,Nebulizer Error,unitless,Alarms 
+8379,Peak Pressure,-,VitalSigns 
+8579,Plimit Reached Alarm,unitless,Alarms 
+8589,High Expired Tidal Volume Alarm,unitless,Alarms 
+8596,Low FiO2 Alarm,unitless,Alarms 
+8597,High FiO2 Alarm,unitless,Alarms 
+8598,Low Respiration Rate Alarm,unitless,Alarms 
+8599,High Respiration Rate Alarm,unitless,Alarms 
+8600,CO2 Apnea Alarm,unitless,Alarms 
+8606,Battery Failure Alarm,unitless,Alarms 
+8614,Ventilator Failure Alarm,unitless,Alarms 
+9293,Pressure Rise Time Setting,cmH2O/s,Settings 
+9485,Maximum Inspiratory Time Setting,-,Settings 
+9584,High Expired Minute Volume Alarm,unitless,Alarms 
+9836,CO2 Sensor Failure Alarm,unitless,Alarms 
