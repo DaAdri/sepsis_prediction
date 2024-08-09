@@ -1,5 +1,0 @@
-8870 respiration impedance
-5141 ECG L2
-8858 ART
-113 pleth
-
