@@ -1,2 +1,3 @@
-"code/Dataset.csv" 
-"code/controle_imputed_df_0608.csv" 
+# ignore les fihciers de données .csv (trop volumineux)
+"data/*.csv" 
+
