@@ -1,9 +1,0 @@
-variable 113 : SP02 (plethysmographie La pléthysmographie (du grec plethysmo, « augmentation») est un ensemble de méthodes 
-                     servant à mesurer des volumes. En médecine, elle est principalement utilisée en cardiologie et en pneumologie. 
-                     En cardiologie, il est ainsi possible de mesurer le débit cardiaque de manière non invasive.)
-
-variable 5141 et 5142 : ECG Lead 2 & 3
-
-varibale 8857 : pression/tension artérielle
-
-variable 8870 : impédance de la respiration
