@@ -25,10 +25,9 @@ import optuna # optimisation des hyper paramètres
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.models import Sequential, Model
 
-from tensorflow.keras.layers import LSTM, SimpleRNN, Conv1D, Conv2D, Flatten, MaxPooling2D, Dense, Dropout, LayerNormalization, MultiHeadAttention, Add
+from tensorflow.keras.layers import LSTM, SimpleRNN, Conv1D, Conv2D, Flatten, MaxPooling2D, Dense, Dropout, LayerNormalization, Add, InputLayer
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import EarlyStopping
-from keras.regularizers import l2
 
 # Metrics
 from sklearn.metrics import classification_report, accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, roc_auc_score, roc_curve
