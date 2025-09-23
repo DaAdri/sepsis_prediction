@@ -2,3 +2,4 @@ __pycache__
 .DS_Store
 Dataset.csv
 df*.csv
+/.venv*
